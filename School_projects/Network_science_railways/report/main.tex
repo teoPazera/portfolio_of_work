@@ -1,0 +1,107 @@
+\documentclass[12pt,a4paper]{article}
+
+% Kódovanie a jazyk
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[slovak]{babel}
+
+% Rozloženie strany
+\usepackage{geometry}
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+
+% Ak chcete deliť projekt na subfiles   
+\usepackage{subfiles}
+
+% Balíčky pre matematiku, grafiku, tabuľky a odkazy
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{csquotes}
+\usepackage{subcaption}
+
+% Balíček pre citácie (biblatex + biber)
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{literatura.bib}
+\usepackage{tocloft}
+
+
+% definujeme leader pre sekcie a podsekcie
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+
+\begin{document}
+
+%--- TITULNÁ STRANA ----------------------------------------------------------
+\begin{titlepage}
+  \centering
+
+  % Horný riadok – fakulta a univerzita
+  {\large
+    Fakulta matematiky, fyziky a informatiky\\
+    Univerzity Komenského, Bratislava
+  }\par
+
+  \vspace{4cm}
+
+  % Názov práce
+  {\bfseries\LARGE
+    Porovnanie Slovenskej a Českej železničnej infraštruktúry
+  }\par
+
+  \vspace{0.5cm}
+
+  \vfill
+
+  % Autori v ľavom dolnom rohu
+  \begin{flushleft}
+    {\itshape
+      Tomáš Antal\\
+      Teo Pazera\\
+      Andrej Špitalský \\
+      3DAV
+    }
+  \end{flushleft}
+
+  % Dátum v pravom dolnom rohu
+  \begin{flushright}
+    \today
+  \end{flushright}
+
+\end{titlepage}
+%---------------------------------------------------------------------------
+
+% Obsah a zvyšok dokumentu
+\newpage
+
+\section{Úvod}
+Cieľom projektu je analyzovať a porovnať siete železničnej infraštruktúry Slovenska a Česka. Ako hlavnú hypotézu našeho projektu sme zvolili \begin{quote}
+    V čom a ako veľmi je Česká železničná infraštruktúra lepšia od tej Slovenskej?
+\end{quote} 
+Dáta ktoré sme prevažne použili pri našom projekte pochádzajú od Humanitarian OpenStreetMap tímu, sú teda verejne dostupné na adresách pre Slovensko \url{https://data.humdata.org/dataset/hotosm_svk_railways} a pre Česko \url{https://data.humdata.org/dataset/hotosm_cze_railways}.
+
+Pre ďaľšie potreby analýzy v sekcii \ref{sec:random_paths} sme využili aj údaje o počte obyvateľov v jednotlivých obciach na Slovensku z adresy \url{https://github.com/adammertel/municipalities-slovakia/blob/master/out/municipalities-slovakia.csv}
+a rovnaké údaje o obciach v Česku z adresy \url{https://csu.gov.cz/produkty/pocet-obyvatel-v-obcich-9vln2prayv}. 
+
+\vspace{1cm}
+\noindent\textbf{Podiel práce}
+
+\begin{itemize}
+	\item Tomáš Antal -- deskriptívna analýza, spísanie reportu (33.3\%)
+	\item Teo Pazera -- spracovanie dát, pomer najkratšej a vzdušnej vzdialenosti (33.3\%)
+	\item Andrej Špitalský -- Kirchhoffov index, centralita efektívnej rezistencie (33.3\%)
+\end{itemize}
+
+% Napríklad ďalšie časti ako samostatné subfiles:
+\subfile{data.tex}
+\newpage
+\subfile{descriptive.tex}
+\newpage
+\subfile{random_paths.tex}
+\newpage
+\subfile{kirchhoff.tex}
+\newpage
+\subfile{zhrnutie_vysledkov.tex}
+
+\end{document}

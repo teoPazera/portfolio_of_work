@@ -1,2 +1,10 @@
-# portfolio_of_work
-Summary of my projects done during working at Zurich Insurance as Data science Intern and studying Data science at Comenius University and Radboud University 
+# Portfolio of my work
+My name is Teo Pazera and I currently study data science Masters program at Radboud University in Nijmegen, Netherlands. Alongside my studies I work as data science intern in Zurich Insurance now in Netherlands, before in Bratislava competence center. My main focus of work revolves around implementation of LLM models into workplace such as automation of processes using these models, creating agents for surrounding tasks, RAG chatbots or classification of data using NLP techniques. 
+
+This repository serves as a portfolio of most of my projects, that i had the chance to work/collaborate on during my first 3 years of studying bachelor of Data science at Comenius University in Bratislava and 1 and half year work at Zurich Insurance competence center in Bratislava.
+
+Most notably I present my bachelors thesis with the title "Enhancement of RAG chatbots performance using various heuristics", which I done in collaboration with afformentioned Zurich Insurance Company LTD. The thesis focuses on testing many of the available heursitics to improve answers of given RAG system either focusing on direct retrieval of information, pre-processing of data into more suitable to later improve retrieval (Graph RAG approach) or various prompting strategies. In thesis the RAG system was used to automate esg-reporting process in the firm, which has preestablished set of questions for each of the customers of zurich which have to be filled appropriately with the information which given customer publishes. In theses we evaluated the performance of the standalone heuristics using retrieval metrics alongside metrics used mainly in RAG pipelines such as faithfullness, answer relevancy and context relevancy of the answer. The improvements of the metrics were statistically tested to demonstrate significance of the improvements alongside manual check of the changes in answers and feedback from the sustainability team which uses given tool to this day. 
+
+Other projects conducted during my work in Zurich insurance can only be found described as NDA does not allow me to share code nor data of these projects.
+
+

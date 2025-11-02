@@ -1,0 +1,287 @@
+\documentclass[english]{beamer}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath, amsfonts}
+\usepackage[slovak]{babel}
+\usepackage{caption}
+\usepackage{csquotes}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{mathtools}
+\usepackage{multimedia}
+\usepackage{multirow}
+\usepackage{newalg, wasysym, slashbox,lscape}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\usepackage{times}
+\usepackage{xcolor}
+\usepackage{booktabs}
+%\usepackage{epsfig}
+%\usepackage{pgf,pgfarrows,pgfnodes,pgfautomata,pgfheaps}
+
+\mode<presentation>
+{
+  \usetheme{Madrid}  
+
+  \setbeamercovered{transparent}
+}
+
+\makeatletter
+\setbeamertemplate{footline}
+{
+	\leavevmode%
+	\hbox{%
+		\begin{beamercolorbox}[wd=.6\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+			\usebeamerfont{title in head/foot}\insertshorttitle
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.25\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+			\usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2ex}
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.15\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+			\usebeamerfont{date in head/foot}\insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+		\end{beamercolorbox}%
+	}%
+	\vskip0pt%
+}
+\makeatother
+
+\captionsetup{labelformat=empty, justification=centering, font=footnotesize}
+
+\definecolor{lightgray}{gray}{0.8}
+\newcommand{\fade}[1]{\textcolor{lightgray}{\ensuremath{#1}}}
+
+\newcommand{\mycite}[1]{\tiny [#1] \normalsize}
+
+\beamerdefaultoverlayspecification{}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{blocks}[rounded][shadow=false]
+
+\setbeamerfont{title}{series=\bfseries} % Make the title bold
+\setbeamerfont{frametitle}{series=\bfseries} % Make the frametitle bold
+
+
+\title{Porovnanie kvality slovenskej a českej železničnej infraštruktúry}
+\author{Tomáš Antal, Teo Pazera, Andrej Špitalský, 3DAV}
+\institute[]{
+	Fakulta matematiky, fyziky a informatiky\\
+	Univerzity Komenského, Bratislava
+}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}
+  	\frametitle{Porovnanie kvality železničných sietí}
+	
+	\begin{block}{}
+		\begin{itemize}
+			\item hypotéza: Česko má lepšie vybudovanú železničnú sieť, ako Slovensko
+			\item cieľ: kvantifikovať rozdiely a identifikovať slabé miesta
+		\end{itemize}	
+	\end{block}
+	
+	\begin{columns}[T]
+		\column{0.5\textwidth}
+		\centering
+		\includegraphics[width=0.95\columnwidth]{presentation_images/cd.jpg}
+		
+		\column{0.5\textwidth}
+		\centering
+		\includegraphics[width=0.95\columnwidth]{presentation_images/zssk.jpg}
+	\end{columns}
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Dáta}
+	
+	\begin{block}{}
+		\begin{itemize}
+			\item zdroje
+			\begin{itemize}
+				\item Humanitarian OpenStreetMap (železničné stanice a spojenia)
+				\item GitHub a Český Statistický Úřad (obyvateľstvá miest a dedín)
+			\end{itemize}	
+			\item graf pre každú železničnú sieť
+			\begin{itemize}
+				\item vrcholy: stanice
+				\item hrany: ak existuje spojenie medzi dvoma stanicami, váhované vzdušnou vzdialenosťou
+			\end{itemize}
+		\end{itemize}
+	\end{block}
+	
+	\centering
+	\includegraphics[width=0.75\textwidth]{presentation_images/combined_map_final_edited.png}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Priemerný stupeň a hustota}
+	
+	\begin{table}
+		\centering
+		\begin{tabular}{@{}lcc@{}}
+			\toprule
+			& Česko & Slovensko \\
+			\midrule
+			počet vrcholov & 1108 & 421 \\
+			počet hrán & 1258 & 449 \\
+			$\mathbb{E}(k)$ & 2{,}27 & 2{,}13 \\
+			$\rho(G)$ & 0{,}0021 & 0{,}0051 \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+	
+	\centering
+	\includegraphics[width=0.95\textwidth]{presentation_images/degree_distrib_edited.png}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Centralita prepojenosti}
+	
+	\centering
+	\includegraphics[width=\textwidth]{presentation_images/betweenes_edited.png}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Katzova centralita}
+	
+	\centering
+	\includegraphics[width=\textwidth]{presentation_images/katz_edited.png}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Pomer najkratšej cesty so vzdušnou čiarou}
+	
+	\begin{minipage}[t][0.3\textheight][t]{\textwidth}
+		\only<1>{
+			\begin{block}{}
+				\begin{itemize}
+					\item ako veľkú obchádzku musí náhodný cestujúci robiť, oproti vzdušnej čiare?
+					\item generovanie cestujúcich (začiatočná a koncová stanica) váhované počtami obyvateľov v prislúchajúcej obci/mestu
+				\end{itemize}	
+			\end{block}
+		}
+		\only<2>{			
+			\begin{table}[h!]
+				\centering
+				\begin{tabular}{@{}lcc@{}}
+					\toprule
+					& Česko & Slovensko \\
+					\midrule
+					priemerný pomer &  1.3394 & 1.7941 \\
+					medián pomeru & 1.2710 & 1.3172 \\
+					maximálny pomer & 38.3310 & 375.0649 \\
+					\bottomrule
+				\end{tabular}
+			\end{table}
+			
+		}
+	\end{minipage}
+	
+	\begin{minipage}[t][0.7\textheight][t]{\textwidth}
+		\vspace{0.3cm}
+		\begin{columns}[T]
+			\column{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.95\columnwidth]{presentation_images/cz_shortest_path_vs_skyline_edited.png}
+			
+			\column{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.95\columnwidth]{presentation_images/sk_shortest_path_vs_skyline_edited.png}
+		\end{columns}
+	\end{minipage}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Kirchhoffov index}
+	
+	\begin{block}{}
+		\begin{itemize}
+			\item globálna rezistentnosť grafu -- komplikovanosť dopravy
+		\end{itemize}	
+	\end{block}
+	
+	\begin{equation*}
+		\mathit{Kf}(G) = \sum_{\substack{i, j \in V(G) \\ i < j}} R_{i,j} = n\sum_{i=1}^{n-1} \frac{1}{\lambda_i},
+	\end{equation*}
+	
+	\begin{block}{}
+		\begin{itemize}
+			\item normalizácia pre porovnávanie
+		\end{itemize}	
+	\end{block}
+	
+	\begin{equation*}
+		\mathit{Kf}_n(G) = \frac{1}{\binom{n}{2}} \mathit{Kf}(G)
+	\end{equation*}
+	
+	
+	\begin{align*}
+		\mathit{Kf}_n(G_{\text{cze}}) &= 65.99 & \mathit{Kf}_n(G_{\text{svk}}) &= 92.29
+	\end{align*}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Centralita efektívnej rezistencie}	
+	\begin{minipage}[t][0.15\textheight][t]{\textwidth}
+		\begin{block}{}
+			\begin{itemize}
+				\item relatívna zmena $\mathit{Kf}_n(G)$ po odstránení hrany/vrchola
+			\end{itemize}	
+		\end{block}
+	\end{minipage}
+	
+	\begin{minipage}[t][0.85\textheight][t]{\textwidth}
+		\only<1>{
+			\centering
+			\includegraphics[width=0.95\columnwidth]{../images/svk_edge_resistance.png}
+		}
+		\only<2>{
+			\centering
+			\includegraphics[width=0.85\columnwidth]{../images/cze_edge_resistance.png}
+		}
+	\end{minipage}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Centralita efektívnej rezistencie -- rozdelenie}
+	
+	\centering
+	\includegraphics[width=0.85\columnwidth]{../images/edge_resistance_distribution.png}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Výsledky}
+	\begin{block}{}
+		\begin{itemize}
+			\item podobná hustota a rozdelenie stupňov vrcholov
+			\item železničné trasy v Česku sú efektívnejšie -- bližšie kopírujú vzdušnú čiaru
+			\item rezistencia dopravy po českej železničnej siete je nižšia
+			\item slovenská železničná sieť je náchylnejšia na výpadok
+		\end{itemize}	
+	\end{block}
+	\vspace{0.2cm}
+	\centering
+	\includegraphics[width=0.8\columnwidth]{presentation_images/cd_shorter.jpg}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Ďakujeme za pozornosť}
+	
+	\centering
+	\includegraphics[width=0.95\columnwidth]{presentation_images/meskanie.jpg}
+	
+\end{frame}
+
+
+
+
+\end{document}
