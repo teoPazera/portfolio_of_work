@@ -1,0 +1,147 @@
+\documentclass[12pt,oneside,a4paper,slovak]{article}   
+\usepackage{subfiles}
+
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{amscd}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage{dirtree}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{titlesec}
+\usepackage{listings}
+\usepackage{pythonhighlight}
+\usepackage[skip=0pt]{caption}
+\usepackage{subcaption}
+\usepackage{geometry}
+\usepackage[final]{hyperref}
+\usepackage[T1]{fontenc}                % slovencina
+\usepackage[slovak]{babel}
+\usepackage{verbatim}
+\usepackage{xcolor}
+
+
+% Define colors for the terminal input and output
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+% Define the style for terminal input
+\lstdefinestyle{terminal}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegray},
+	keywordstyle=\color{codepurple},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codegreen},
+	basicstyle=\footnotesize\ttfamily,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	%numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstdefinestyle{python}{
+	language=Python,               % Set language to Python
+	basicstyle=\ttfamily\small,    % Use a small, monospaced font
+	keywordstyle=\color{blue},     % Keywords in blue
+	stringstyle=\color{red},       % Strings in red
+	commentstyle=\color{green},    % Comments in green
+	numbers=none,                  % Disable line numbers
+	frame=single,                  % Add a frame around the code
+	tabsize=4,                     % Set tab width
+	breaklines=true                % Enable line breaking
+}
+
+\lstset{style=python}
+
+\newcommand\pythonstyle{\lstset{
+		language=Python,
+		basicstyle=\ttm,
+		morekeywords={self},              % Add keywords here
+		keywordstyle=\ttb\color{deepblue},
+		emph={MyClass,__init__},          % Custom highlighting
+		emphstyle=\ttb\color{deepred},    % Custom highlighting style
+		stringstyle=\color{deepgreen},
+		frame=tb,                         % Any extra options here
+		showstringspaces=false
+}}
+
+\usepackage[font=small]{caption} % Adjust caption font size
+\captionsetup[figure]{labelformat=empty}
+
+\geometry{top=2cm, bottom=2cm, left=2.5cm, right=2.5cm, headheight=0.6cm, headsep=0.3cm, footskip=1cm}
+
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+\renewcommand{\baselinestretch}{1}
+\newcommand*{\vertbar}{\rule[0ex]{0.3pt}{1.5ex}}
+\newcommand*{\horzbar}{\rule[0ex]{1.5ex}{0.3pt}}
+\setlength{\parindent}{1em}
+
+\begin{document}
+	\setcounter{section}{0}
+	\begin{titlepage}
+		\large
+		
+		\begin{center}
+			\textbf{Fakulta matematiky, fyziky a informatiky Univerzity Komenského, Bratislava}
+			
+			\vspace{7.5cm}
+			
+			\LARGE\textbf{ Predikcie volieb podľa prieskumov verejnej mienky }
+			
+			\vspace{1cm}
+			
+			\large\textit{projekt z predmetu Princípy dátovej vedy}
+			
+			\bigskip 
+		\end{center}
+			
+		\vfill
+		
+		\begin{minipage}{0.5\textwidth}
+			\raggedright
+			
+			\textit{Tomáš Antal\\Erik Božík\\Teo Pazera\\Andrej Špitalský\\Tomáš Varga}
+		\end{minipage}
+		\hfil
+		\begin{minipage}{0.5\textwidth}
+			\raggedleft
+			\vspace{2.6cm}
+			\today
+		\end{minipage}
+			
+	\end{titlepage}
+	
+	\tableofcontents
+	\newpage
+	
+	\subfile{predstavenie-temy}
+	\newpage
+	\subfile{spracovanie-dat}
+	\newpage
+	\subfile{explorativna-analyza}
+	\newpage
+	\subfile{klasifikacne-modely}
+	\newpage
+	\subfile{predikcne-modely}
+	\newpage
+	\subfile{predikcie-volieb}
+	\newpage
+	\subfile{zhrnutie}
+	
+\end{document}
