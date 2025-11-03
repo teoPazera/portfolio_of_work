@@ -1,0 +1,6115 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4514575,
+          49.1867174
+        ]
+      },
+      "id": "Spi\u0161sk\u00e1 Bel\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4911909,
+          49.2312099
+        ]
+      },
+      "id": "Podhorany pri Ke\u017emarku"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5264365,
+          49.255148
+        ]
+      },
+      "id": "Podol\u00ednec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4715975,
+          49.1842918
+        ]
+      },
+      "id": "Spi\u0161sk\u00e1 Bel\u00e1 zast\u00e1vka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4934945,
+          49.2186675
+        ]
+      },
+      "id": "Bu\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5751023,
+          48.8004225
+        ]
+      },
+      "id": "Hronec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9763619,
+          48.2190777
+        ]
+      },
+      "id": "Dev\u00ednska Nov\u00e1 Ves"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6288877,
+          48.8015539
+        ]
+      },
+      "id": "Brezno"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0230977,
+          48.4324861
+        ]
+      },
+      "id": "Malacky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3096114,
+          48.6096892
+        ]
+      },
+      "id": "\u010ca\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2953602,
+          48.6702996
+        ]
+      },
+      "id": "Kr\u00e1sna nad Horn\u00e1dom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2763381,
+          48.6792613
+        ]
+      },
+      "id": "Barca"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3985863,
+          48.2065853
+        ]
+      },
+      "id": "Mal\u00e9 Straciny"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6801999,
+          49.3083333
+        ]
+      },
+      "id": "Star\u00e1 \u013dubov\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9797831,
+          48.2963447
+        ]
+      },
+      "id": "Hodejov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1315193,
+          48.8231853
+        ]
+      },
+      "id": "\u010cerven\u00e1 Skala"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2260036,
+          48.3068039
+        ]
+      },
+      "id": "Rimavsk\u00e1 Se\u010d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9550973,
+          48.2771623
+        ]
+      },
+      "id": "Blhovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4548961,
+          47.7612852
+        ]
+      },
+      "id": "S\u00fctt\u0151"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4780176,
+          47.7530642
+        ]
+      },
+      "id": "Piszke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2154725,
+          49.1853567
+        ]
+      },
+      "id": "Balnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6485018,
+          47.97536
+        ]
+      },
+      "id": "Pohronsk\u00fd Ruskov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9631438,
+          48.5612971
+        ]
+      },
+      "id": "Likier"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9988883,
+          48.3993596
+        ]
+      },
+      "id": "Priben\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9286235,
+          48.6282904
+        ]
+      },
+      "id": "Budkovce \u0160RT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6262208,
+          48.5217703
+        ]
+      },
+      "id": "Micha\u013eany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.085644,
+          48.5547492
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Kapu\u0161any"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0250569,
+          48.560255
+        ]
+      },
+      "id": "Vojany \u0160RT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0851417,
+          48.4195112
+        ]
+      },
+      "id": "\u010cierna nad Tisou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.514134,
+          48.6352218
+        ]
+      },
+      "id": "Ro\u017e\u0148ava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7793322,
+          49.2878312
+        ]
+      },
+      "id": "Plavnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0715575,
+          48.0815121
+        ]
+      },
+      "id": "Kittsee"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3847198,
+          48.6083763
+        ]
+      },
+      "id": "Kunova Teplica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3628051,
+          48.668722
+        ]
+      },
+      "id": "\u0160t\u00edtnik"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0187238,
+          48.5090165
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Lev\u00e1re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0189983,
+          48.6077218
+        ]
+      },
+      "id": "Sekule"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1979995,
+          49.0608987
+        ]
+      },
+      "id": "Svit"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3282309,
+          48.3549314
+        ]
+      },
+      "id": "\u0160trkovec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3302742,
+          48.6858343
+        ]
+      },
+      "id": "Ochtin\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5009515,
+          48.8303815
+        ]
+      },
+      "id": "Hnilec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3912533,
+          48.7948069
+        ]
+      },
+      "id": "Vlachovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3842114,
+          48.8133564
+        ]
+      },
+      "id": "Dob\u0161in\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4185624,
+          48.7363551
+        ]
+      },
+      "id": "Ni\u017en\u00e1 Slan\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0519273,
+          48.7404342
+        ]
+      },
+      "id": "Mur\u00e1\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4072888,
+          48.8544812
+        ]
+      },
+      "id": "Mlynky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4996412,
+          48.6999784
+        ]
+      },
+      "id": "Betliar"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3854865,
+          48.5364383
+        ]
+      },
+      "id": "Gemersk\u00e1 H\u00f4rka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2424407,
+          48.6232102
+        ]
+      },
+      "id": "Jel\u0161ava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9154097,
+          49.0648796
+        ]
+      },
+      "id": "Martin"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1614713,
+          49.385463
+        ]
+      },
+      "id": "Tane\u010dn\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1278861,
+          49.3901606
+        ]
+      },
+      "id": "Sedlo Beskyd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9510642,
+          48.8399422
+        ]
+      },
+      "id": "\u010cremo\u0161n\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1407762,
+          48.7165187
+        ]
+      },
+      "id": "Radva\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9387007,
+          48.6939867
+        ]
+      },
+      "id": "Po\u010dkaj"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1450677,
+          48.7574165
+        ]
+      },
+      "id": "Kostiviarska"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0341282,
+          48.8227434
+        ]
+      },
+      "id": "Harmanec jasky\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6903408,
+          48.5994871
+        ]
+      },
+      "id": "Jablonov nad Tur\u0148ou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7560635,
+          48.9957985
+        ]
+      },
+      "id": "Spi\u0161sk\u00e9 Podhradie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7692012,
+          48.6067937
+        ]
+      },
+      "id": "Hrhov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0029807,
+          48.6011083
+        ]
+      },
+      "id": "Moldava nad Bodvou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7232229,
+          48.8055052
+        ]
+      },
+      "id": "\u0160vedl\u00e1r"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3127073,
+          48.5533039
+        ]
+      },
+      "id": "Pstru\u0161a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2765132,
+          48.7629445
+        ]
+      },
+      "id": "Slovensk\u00e1 \u013dup\u010da"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1019929,
+          48.4807411
+        ]
+      },
+      "id": "Dobr\u00e1 Niva"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2035169,
+          48.7517927
+        ]
+      },
+      "id": "Vpred"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7953995,
+          48.4287221
+        ]
+      },
+      "id": "Polt\u00e1r"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9478728,
+          48.4732067
+        ]
+      },
+      "id": "Bansk\u00e1 Bel\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8025228,
+          48.0237633
+        ]
+      },
+      "id": "Ipe\u013esk\u00fd Sokolec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6486726,
+          47.9562425
+        ]
+      },
+      "id": "\u010cata"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9913734,
+          48.3257528
+        ]
+      },
+      "id": "Zohor"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0551829,
+          48.9549012
+        ]
+      },
+      "id": "Dlh\u00e9 nad Cirochou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9930252,
+          48.2800288
+        ]
+      },
+      "id": "Hontianske Nemce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8248364,
+          48.8675378
+        ]
+      },
+      "id": "Str\u00e1\u017eske"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7758249,
+          48.6522876
+        ]
+      },
+      "id": "Hrini\u0161te"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.047464,
+          48.6619514
+        ]
+      },
+      "id": "K\u00faty"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6791096,
+          47.7999029
+        ]
+      },
+      "id": "\u0160t\u00farovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6504038,
+          47.8013857
+        ]
+      },
+      "id": "\u0160t\u00farovo tranzitn\u00e1 skupina"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.783797,
+          49.305892
+        ]
+      },
+      "id": "Kysuck\u00e9 Nov\u00e9 Mesto"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8814153,
+          48.0790071
+        ]
+      },
+      "id": "\u017dih\u00e1rec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.940384,
+          48.500021
+        ]
+      },
+      "id": "Rimavsk\u00e9 Zalu\u017eany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9445997,
+          48.5099384
+        ]
+      },
+      "id": "Rimavsk\u00e1 Ba\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.316305,
+          47.9380845
+        ]
+      },
+      "id": "Pribeta"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3997472,
+          47.89991
+        ]
+      },
+      "id": "Strekov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8358007,
+          49.3786108
+        ]
+      },
+      "id": "Kr\u00e1sno nad Kysucou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2495044,
+          47.9685582
+        ]
+      },
+      "id": "Dvory nad \u017ditavou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2692121,
+          48.7220196
+        ]
+      },
+      "id": "Ko\u0161ice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7869396,
+          49.4452459
+        ]
+      },
+      "id": "\u010cadca"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6005105,
+          48.9319739
+        ]
+      },
+      "id": "So\u013e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2452436,
+          48.9114818
+        ]
+      },
+      "id": "Drienovsk\u00e1 Nov\u00e1 Ves"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0910867,
+          48.7234926
+        ]
+      },
+      "id": "Gbely"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1500344,
+          48.8146554
+        ]
+      },
+      "id": "Hol\u00ed\u010d nad Moravou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2183691,
+          48.8499681
+        ]
+      },
+      "id": "Skalica na Slovensku"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1494044,
+          48.6694282
+        ]
+      },
+      "id": "Vlkanov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.563469,
+          48.1003018
+        ]
+      },
+      "id": "Tekovsk\u00e9 Lu\u017eany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7518607,
+          48.8570393
+        ]
+      },
+      "id": "Ni\u017en\u00fd Hrabovec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9054209,
+          49.2613518
+        ]
+      },
+      "id": "Medzilaborce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9039199,
+          48.6981274
+        ]
+      },
+      "id": "Medzev"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0031676,
+          48.608116
+        ]
+      },
+      "id": "Moldava nad Bodvou mesto"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7770377,
+          48.7655164
+        ]
+      },
+      "id": "Michalov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1258959,
+          47.769268
+        ]
+      },
+      "id": "Kom\u00e1rno"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1899047,
+          47.8088558
+        ]
+      },
+      "id": "Chot\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1731101,
+          47.7855386
+        ]
+      },
+      "id": "Kom\u00e1rno zria\u010fovacia stanica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2115457,
+          47.9264277
+        ]
+      },
+      "id": "Baj\u010d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2034712,
+          47.8766386
+        ]
+      },
+      "id": "Hurbanovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7468252,
+          49.2270928
+        ]
+      },
+      "id": "\u017dilina"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6028865,
+          48.6322751
+        ]
+      },
+      "id": "Lipovn\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.644165,
+          48.7338184
+        ]
+      },
+      "id": "Vydrovo - Koliba"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5690626,
+          48.8052676
+        ]
+      },
+      "id": "Valask\u00e1, Obec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5790894,
+          48.7988723
+        ]
+      },
+      "id": "Hronec zlievare\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2281075,
+          48.7498615
+        ]
+      },
+      "id": "\u010cerme\u013e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1714341,
+          48.590966
+        ]
+      },
+      "id": "Ve\u013ek\u00e1 Ida"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.053011,
+          49.0331898
+        ]
+      },
+      "id": "Vl\u00e1rsk\u00fd pr\u016fsmyk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8700453,
+          48.6517848
+        ]
+      },
+      "id": "Hatalov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4755011,
+          48.6666773
+        ]
+      },
+      "id": "Slan\u010d\u00edk \u0160RT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.579425,
+          48.5817504
+        ]
+      },
+      "id": "Kuzmice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3714851,
+          48.6298505
+        ]
+      },
+      "id": "Ni\u017en\u00e1 My\u0161\u013ea"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5588036,
+          48.8044345
+        ]
+      },
+      "id": "Chvatimech \u010cHZ"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3584848,
+          48.5381715
+        ]
+      },
+      "id": "Sto\u017eok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1734243,
+          47.9955497
+        ]
+      },
+      "id": "Nov\u00e9 Z\u00e1mky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0817167,
+          48.0601968
+        ]
+      },
+      "id": "Pal\u00e1rikovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0406406,
+          48.0925839
+        ]
+      },
+      "id": "Tvrdo\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0685846,
+          48.5864692
+        ]
+      },
+      "id": "\u010ce\u010dejovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9290364,
+          48.1525983
+        ]
+      },
+      "id": "Trnovec nad V\u00e1hom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2486134,
+          48.6314707
+        ]
+      },
+      "id": "Haniska pri Ko\u0161iciach"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8560129,
+          48.1063617
+        ]
+      },
+      "id": "Te\u0161ed\u00edkovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9598711,
+          48.0164929
+        ]
+      },
+      "id": "Neded"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9364627,
+          48.0300646
+        ]
+      },
+      "id": "Vl\u010dany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7218452,
+          48.1850826
+        ]
+      },
+      "id": "Galanta"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.088414,
+          49.1033135
+        ]
+      },
+      "id": "Sabinov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9604785,
+          49.1518336
+        ]
+      },
+      "id": "Lipany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6296937,
+          48.1955523
+        ]
+      },
+      "id": "Sl\u00e1dkovi\u010dovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.552564,
+          49.207086
+        ]
+      },
+      "id": "Byt\u010da"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8619436,
+          48.1470532
+        ]
+      },
+      "id": "\u0160a\u013ea"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8517033,
+          49.2695974
+        ]
+      },
+      "id": "Plave\u010d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9767814,
+          47.7750716
+        ]
+      },
+      "id": "Zlatn\u00e1 na Ostrove"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7816913,
+          47.8615651
+        ]
+      },
+      "id": "Ve\u013ek\u00fd Meder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.452044,
+          48.0317741
+        ]
+      },
+      "id": "Lehnice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6083372,
+          47.9932178
+        ]
+      },
+      "id": "Dunajsk\u00e1 Streda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5297299,
+          48.0144799
+        ]
+      },
+      "id": "Orechov\u00e1 Pot\u00f4\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4302379,
+          49.1232837
+        ]
+      },
+      "id": "Pova\u017esk\u00e1 Bystrica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6435291,
+          49.2409687
+        ]
+      },
+      "id": "Doln\u00fd Hri\u010dov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8679039,
+          48.387007
+        ]
+      },
+      "id": "K\u013ea\u010dany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0662402,
+          49.0839965
+        ]
+      },
+      "id": "\u0160trba O\u017d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0638012,
+          49.1182187
+        ]
+      },
+      "id": "\u0160trbsk\u00e9 Pleso O\u017d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0635813,
+          49.1183719
+        ]
+      },
+      "id": "\u0160trbsk\u00e9 Pleso"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.359446,
+          48.0556465
+        ]
+      },
+      "id": "Kvetoslavov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6740199,
+          48.8900674
+        ]
+      },
+      "id": "Vranov nad Top\u013eou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8524002,
+          47.8078996
+        ]
+      },
+      "id": "Zemianska Ol\u010da"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7435761,
+          47.951273
+        ]
+      },
+      "id": "Doln\u00fd \u0160t\u00e1l"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2208637,
+          48.1312823
+        ]
+      },
+      "id": "Podunajsk\u00e9 Biskupice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1351544,
+          48.1852203
+        ]
+      },
+      "id": "Bratislava predmestie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1466999,
+          48.1719218
+        ]
+      },
+      "id": "Bratislava-Nov\u00e9 Mesto"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.161029,
+          48.2091079
+        ]
+      },
+      "id": "Bratislava-Ra\u010da"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9546649,
+          49.0514393
+        ]
+      },
+      "id": "Ko\u0161kovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.412723,
+          48.5534642
+        ]
+      },
+      "id": "Ple\u0161ivec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1726678,
+          48.1415722
+        ]
+      },
+      "id": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5889177,
+          49.0174568
+        ]
+      },
+      "id": "Levo\u010da"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9979527,
+          48.5715297
+        ]
+      },
+      "id": "Vojany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9238577,
+          48.6320158
+        ]
+      },
+      "id": "Budkovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1292966,
+          48.5591501
+        ]
+      },
+      "id": "Ma\u0165ovce \u0160RT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8889204,
+          48.5976367
+        ]
+      },
+      "id": "Tur\u0148a nad Bodvou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0994662,
+          48.1214818
+        ]
+      },
+      "id": "Bratislava-Petr\u017ealka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8602529,
+          48.7976724
+        ]
+      },
+      "id": "Petrovce nad Laborcom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2671175,
+          49.0164122
+        ]
+      },
+      "id": "\u0160ari\u0161sk\u00e9 L\u00faky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6285948,
+          48.6133181
+        ]
+      },
+      "id": "\u010ce\u013eovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9717469,
+          48.5972861
+        ]
+      },
+      "id": "Drah\u0148ov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1507828,
+          48.0467664
+        ]
+      },
+      "id": "Rusovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5148825,
+          47.7520934
+        ]
+      },
+      "id": "L\u00e1batlan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.561481,
+          47.76109
+        ]
+      },
+      "id": "Nyerges\u00fajfalu"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0510613,
+          48.1846371
+        ]
+      },
+      "id": "Bratislava-Lama\u010d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8409898,
+          48.7466267
+        ]
+      },
+      "id": "Zbojsk\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9219539,
+          49.1348333
+        ]
+      },
+      "id": "Radva\u0148 nad Laborcom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9675834,
+          48.4531154
+        ]
+      },
+      "id": "Ni\u017en\u00fd Sk\u00e1lnik"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9602121,
+          48.4647977
+        ]
+      },
+      "id": "Hrachovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3272019,
+          48.3026295
+        ]
+      },
+      "id": "Lenartovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9323043,
+          48.2350631
+        ]
+      },
+      "id": "Hajn\u00e1\u010dka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2461392,
+          48.7955652
+        ]
+      },
+      "id": "Kosto\u013eany nad Horn\u00e1dom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9356709,
+          48.6907657
+        ]
+      },
+      "id": "Tisovec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7936492,
+          48.7583518
+        ]
+      },
+      "id": "Pohronsk\u00e1 Polhora"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5997682,
+          48.4054068
+        ]
+      },
+      "id": "Podre\u010dany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5477442,
+          48.4658046
+        ]
+      },
+      "id": "M\u00fdtna"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.149548,
+          48.6143659
+        ]
+      },
+      "id": "Slia\u010d k\u00fapele"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6269133,
+          48.3692267
+        ]
+      },
+      "id": "Tom\u00e1\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4669382,
+          48.5164712
+        ]
+      },
+      "id": "Podkriv\u00e1\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.879615,
+          48.9937215
+        ]
+      },
+      "id": "Pr\u00edbovce-Rakovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8415912,
+          48.5669216
+        ]
+      },
+      "id": "Kokava nad Rimavicou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79117,
+          48.2970415
+        ]
+      },
+      "id": "Pr\u0161a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4456304,
+          48.5284833
+        ]
+      },
+      "id": "Kriv\u00e1\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3572754,
+          48.7912796
+        ]
+      },
+      "id": "Medzibrod"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9593545,
+          48.8563167
+        ]
+      },
+      "id": "He\u013epa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.854664,
+          48.8464144
+        ]
+      },
+      "id": "Polomka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2964076,
+          48.8762976
+        ]
+      },
+      "id": "Dob\u0161insk\u00e1 \u013dadov\u00e1 Jasky\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1732016,
+          48.9837806
+        ]
+      },
+      "id": "Snina"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0117868,
+          48.8951496
+        ]
+      },
+      "id": "Margecany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2239371,
+          48.8524023
+        ]
+      },
+      "id": "Kysak"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2179798,
+          48.9961821
+        ]
+      },
+      "id": "Stak\u010d\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2489842,
+          48.9831761
+        ]
+      },
+      "id": "Pre\u0161ov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.754154,
+          48.7254916
+        ]
+      },
+      "id": "Handlov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9027705,
+          48.7428962
+        ]
+      },
+      "id": "Kremnick\u00e9 Bane"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.712104,
+          48.7782141
+        ]
+      },
+      "id": "Chrenovec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5694307,
+          48.9897807
+        ]
+      },
+      "id": "\u010cierne nad Top\u013eou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3205402,
+          49.0438686
+        ]
+      },
+      "id": "Kapu\u0161any pri Pre\u0161ove"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4056572,
+          49.0490204
+        ]
+      },
+      "id": "Lipn\u00edky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8860124,
+          48.9216397
+        ]
+      },
+      "id": "Krompachy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.240887,
+          48.8751455
+        ]
+      },
+      "id": "Li\u010dartovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7457045,
+          48.8269157
+        ]
+      },
+      "id": "Ga\u0161parovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5231712,
+          48.8102638
+        ]
+      },
+      "id": "Podbrezov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6301322,
+          48.838363
+        ]
+      },
+      "id": "N\u00e1lepkovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8505127,
+          48.8759278
+        ]
+      },
+      "id": "Diviaky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8038032,
+          48.9354963
+        ]
+      },
+      "id": "Spi\u0161sk\u00e9 Vlachy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3145157,
+          49.1492238
+        ]
+      },
+      "id": "Raslavice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6457272,
+          48.0442231
+        ]
+      },
+      "id": "\u017deliezovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1340207,
+          48.8739235
+        ]
+      },
+      "id": "Mal\u00e1 Lodina"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6652076,
+          48.817717
+        ]
+      },
+      "id": "Brezno-Halny"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9119232,
+          48.6373134
+        ]
+      },
+      "id": "Barto\u0161ova Leh\u00f4tka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9148765,
+          49.2136928
+        ]
+      },
+      "id": "Pust\u00e9 Pole"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2029323,
+          49.0448096
+        ]
+      },
+      "id": "Ve\u013ek\u00fd \u0160ari\u0161"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6345428,
+          48.9102128
+        ]
+      },
+      "id": "Marku\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9912538,
+          48.9340274
+        ]
+      },
+      "id": "Kamenica nad Cirochou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.004733,
+          48.5155103
+        ]
+      },
+      "id": "Kozeln\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2698752,
+          48.7192938
+        ]
+      },
+      "id": "Slavo\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9470944,
+          48.9655174
+        ]
+      },
+      "id": "Udavsk\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1950323,
+          48.6527643
+        ]
+      },
+      "id": "Luben\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2953683,
+          48.5643154
+        ]
+      },
+      "id": "Huc\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5198384,
+          49.0188917
+        ]
+      },
+      "id": "Hanu\u0161ovce nad Top\u013eou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9330088,
+          48.2083046
+        ]
+      },
+      "id": "Hontianske Tes\u00e1re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2827727,
+          48.5541344
+        ]
+      },
+      "id": "V\u00edg\u013ea\u0161"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.560538,
+          48.9504283
+        ]
+      },
+      "id": "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0686512,
+          48.3464284
+        ]
+      },
+      "id": "Krupina"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.574925,
+          48.4447447
+        ]
+      },
+      "id": "Lovinoba\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1441134,
+          48.5727762
+        ]
+      },
+      "id": "Zvolen n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8818093,
+          48.7927948
+        ]
+      },
+      "id": "Horn\u00e1 \u0160tub\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.10719,
+          49.3858419
+        ]
+      },
+      "id": "Chm\u00fara"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3340088,
+          49.0813831
+        ]
+      },
+      "id": "Matejovce pri Poprade"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.353791,
+          49.0873729
+        ]
+      },
+      "id": "Liskov\u00e1 zast\u00e1vka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8167045,
+          48.5134839
+        ]
+      },
+      "id": "Zlatno"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7398339,
+          48.4231985
+        ]
+      },
+      "id": "Brezni\u010dka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9577818,
+          48.5772568
+        ]
+      },
+      "id": "Hn\u00fa\u0161\u0165a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9643146,
+          48.5399954
+        ]
+      },
+      "id": "Rimavsk\u00e9 Brezovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2831394,
+          49.2966729
+        ]
+      },
+      "id": "Bardejov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0956714,
+          48.4257615
+        ]
+      },
+      "id": "\u010cierna nad Tisou \u0160RT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.666049,
+          48.7041238
+        ]
+      },
+      "id": "Se\u010dovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1223241,
+          48.5566717
+        ]
+      },
+      "id": "Ma\u0165ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2204254,
+          49.1415616
+        ]
+      },
+      "id": "Star\u00fd Smokovec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.627946,
+          49.4036298
+        ]
+      },
+      "id": "Turzovka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.711088,
+          48.6326185
+        ]
+      },
+      "id": "Trebi\u0161ov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8347849,
+          48.6792981
+        ]
+      },
+      "id": "B\u00e1novce nad Ondavou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7411311,
+          48.643538
+        ]
+      },
+      "id": "Trebi\u0161ov \u0160RT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6717223,
+          48.5772038
+        ]
+      },
+      "id": "\u00dapor"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9241007,
+          48.6975055
+        ]
+      },
+      "id": "Kremnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9138562,
+          48.390324
+        ]
+      },
+      "id": "Ve\u013ek\u00fd Hore\u0161"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0243612,
+          48.4069909
+        ]
+      },
+      "id": "Dobr\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7576164,
+          48.3903427
+        ]
+      },
+      "id": "Streda nad Bodrogom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.488091,
+          48.6445556
+        ]
+      },
+      "id": "Slanec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.814975,
+          48.8116267
+        ]
+      },
+      "id": "Mn\u00ed\u0161ek nad Hnilcom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8858064,
+          48.8201491
+        ]
+      },
+      "id": "Prakovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8948216,
+          48.1091133
+        ]
+      },
+      "id": "Tup\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8985025,
+          48.7507165
+        ]
+      },
+      "id": "Michalovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1369222,
+          48.4276021
+        ]
+      },
+      "id": "S\u00e1sa-Plie\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1705201,
+          48.9101489
+        ]
+      },
+      "id": "Tren\u010dianske Teplice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4277648,
+          48.672272
+        ]
+      },
+      "id": "Ruskov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4395434,
+          48.8137106
+        ]
+      },
+      "id": "Dubov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7247203,
+          48.7311306
+        ]
+      },
+      "id": "Va\u010fovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9813685,
+          48.4473978
+        ]
+      },
+      "id": "Kapince"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8283613,
+          47.8248069
+        ]
+      },
+      "id": "Ch\u013eaba zast\u00e1vka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8916785,
+          49.4981953
+        ]
+      },
+      "id": "Skalit\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0891982,
+          48.3534771
+        ]
+      },
+      "id": "Jablonov\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2830378,
+          48.5191062
+        ]
+      },
+      "id": "Plaveck\u00fd Mikul\u00e1\u0161"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2508362,
+          48.4829361
+        ]
+      },
+      "id": "Plaveck\u00e9 Podhradie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1711333,
+          48.452466
+        ]
+      },
+      "id": "Roho\u017en\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8446626,
+          48.3774648
+        ]
+      },
+      "id": "Z\u00e1horsk\u00e1 Ves"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9139108,
+          48.333703
+        ]
+      },
+      "id": "Vysok\u00e1 pri Morave"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0361612,
+          48.3725658
+        ]
+      },
+      "id": "\u010cakajovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0527091,
+          48.3836412
+        ]
+      },
+      "id": "Jel\u0161ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1421535,
+          48.6340257
+        ]
+      },
+      "id": "\u0160a\u0161t\u00edn-Str\u00e1\u017ee"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2625633,
+          48.6599318
+        ]
+      },
+      "id": "\u0160ajd\u00edkove Humence"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3342047,
+          48.6659698
+        ]
+      },
+      "id": "Senica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4098102,
+          48.6062807
+        ]
+      },
+      "id": "Jablonica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.530687,
+          48.6517634
+        ]
+      },
+      "id": "Brezov\u00e1 pod Bradlom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4984699,
+          48.4702243
+        ]
+      },
+      "id": "Boler\u00e1z"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4553255,
+          48.5204581
+        ]
+      },
+      "id": "Smolenice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5374023,
+          48.4278897
+        ]
+      },
+      "id": "\u0160elpice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5644958,
+          48.3941007
+        ]
+      },
+      "id": "Nem\u010danka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2703826,
+          48.2824621
+        ]
+      },
+      "id": "Pezinok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.486712,
+          48.3230455
+        ]
+      },
+      "id": "C\u00edfer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3461693,
+          48.3017487
+        ]
+      },
+      "id": "\u0160enkvice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1865352,
+          48.8398686
+        ]
+      },
+      "id": "Telg\u00e1rt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0194747,
+          48.8588656
+        ]
+      },
+      "id": "Tren\u010dianska Turn\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7269644,
+          48.290368
+        ]
+      },
+      "id": "Sere\u010f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.723317,
+          48.233671
+        ]
+      },
+      "id": "G\u00e1\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2794665,
+          49.1646369
+        ]
+      },
+      "id": "Tatransk\u00e1 Lomnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7585893,
+          48.4414225
+        ]
+      },
+      "id": "Leopoldov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.737577,
+          48.3725511
+        ]
+      },
+      "id": "Siladice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8142085,
+          48.5954601
+        ]
+      },
+      "id": "Pie\u0161\u0165any"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7742181,
+          48.5072209
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Kosto\u013eany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8739539,
+          48.8017292
+        ]
+      },
+      "id": "Tren\u010dianske Bohuslavice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0521884,
+          48.8966328
+        ]
+      },
+      "id": "Tren\u010d\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0227447,
+          48.9006446
+        ]
+      },
+      "id": "Tren\u010d\u00edn-Zlatovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1680715,
+          48.9664461
+        ]
+      },
+      "id": "Dubnica nad V\u00e1hom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2361821,
+          49.0020357
+        ]
+      },
+      "id": "Ilava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0995754,
+          48.8015827
+        ]
+      },
+      "id": "U\u013eanka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6438771,
+          48.7806135
+        ]
+      },
+      "id": "Paprad"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6156589,
+          48.7760475
+        ]
+      },
+      "id": "Poriadie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7004091,
+          48.7731654
+        ]
+      },
+      "id": "Star\u00e1 Tur\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.835833,
+          48.7509879
+        ]
+      },
+      "id": "Nov\u00e9 Mesto nad V\u00e1hom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7986887,
+          48.7214705
+        ]
+      },
+      "id": "\u010cachtice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2280218,
+          49.1911142
+        ]
+      },
+      "id": "L\u00faky pod Makytou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3273055,
+          49.1137255
+        ]
+      },
+      "id": "P\u00fachov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2905,
+          49.0343694
+        ]
+      },
+      "id": "Ladce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3193491,
+          49.0626626
+        ]
+      },
+      "id": "Belu\u0161a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2113453,
+          49.0210061
+        ]
+      },
+      "id": "Prusk\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2840756,
+          49.0704293
+        ]
+      },
+      "id": "Lednick\u00e9 Rovne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1219508,
+          48.9676348
+        ]
+      },
+      "id": "Nem\u0161ov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1132865,
+          48.9373812
+        ]
+      },
+      "id": "Tren\u010dianska Tepl\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.251297,
+          48.7202946
+        ]
+      },
+      "id": "B\u00e1novce nad Bebravou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2487862,
+          48.6903697
+        ]
+      },
+      "id": "Doln\u00e9 Na\u0161tice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2617477,
+          48.669063
+        ]
+      },
+      "id": "Rybany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1723903,
+          48.7809716
+        ]
+      },
+      "id": "Svinn\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2330695,
+          48.7369203
+        ]
+      },
+      "id": "Horn\u00e9 Ozorovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1975197,
+          48.7480924
+        ]
+      },
+      "id": "Ruskovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0875494,
+          48.8130026
+        ]
+      },
+      "id": "Mn\u00edchova Lehota"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3092299,
+          49.0834991
+        ]
+      },
+      "id": "Ru\u017eomberok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9817376,
+          48.5000995
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Rip\u0148any"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9415735,
+          48.5465395
+        ]
+      },
+      "id": "Rado\u0161ina"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9799097,
+          48.4144108
+        ]
+      },
+      "id": "Nov\u00e9 Sady"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6611865,
+          48.3302253
+        ]
+      },
+      "id": "Kri\u017eovany nad Dudv\u00e1hom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8070191,
+          48.4333547
+        ]
+      },
+      "id": "Hlohovec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8903115,
+          48.3731059
+        ]
+      },
+      "id": "Ri\u0161\u0148ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5849147,
+          48.3697197
+        ]
+      },
+      "id": "Trnava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9427531,
+          48.3636655
+        ]
+      },
+      "id": "Alek\u0161ince"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9672242,
+          48.3811198
+        ]
+      },
+      "id": "Anda\u010d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1507158,
+          48.1835297
+        ]
+      },
+      "id": "Ve\u013ek\u00fd K\u00fdr"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0568359,
+          48.3117097
+        ]
+      },
+      "id": "Nitra zast\u00e1vka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0792671,
+          48.3015135
+        ]
+      },
+      "id": "Nitra"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.167445,
+          48.0455476
+        ]
+      },
+      "id": "B\u00e1nov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0237735,
+          48.3519708
+        ]
+      },
+      "id": "Lu\u017eianky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9999527,
+          48.3820514
+        ]
+      },
+      "id": "Zbehy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0392781,
+          48.3547068
+        ]
+      },
+      "id": "Lu\u017eianky TIP"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1694226,
+          48.5623976
+        ]
+      },
+      "id": "Topo\u013e\u010dany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1188287,
+          48.504312
+        ]
+      },
+      "id": "Ludanice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2753122,
+          48.6080266
+        ]
+      },
+      "id": "Chynorany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2994482,
+          48.6174535
+        ]
+      },
+      "id": "\u017dabokreky nad Nitrou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2419221,
+          48.5929733
+        ]
+      },
+      "id": "Bo\u0161any"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.349706,
+          48.6246861
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Bielice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4247633,
+          48.625473
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Uherce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4643142,
+          48.6413771
+        ]
+      },
+      "id": "Oslany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.667275,
+          48.403883
+        ]
+      },
+      "id": "Slovensk\u00e9 Nov\u00e9 Mesto"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1370545,
+          48.4113915
+        ]
+      },
+      "id": "Kuchy\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5192922,
+          48.6845319
+        ]
+      },
+      "id": "Zemianske Kosto\u013eany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5363601,
+          48.7182915
+        ]
+      },
+      "id": "Nov\u00e1ky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6166732,
+          48.7747445
+        ]
+      },
+      "id": "Prievidza"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6086217,
+          48.7671759
+        ]
+      },
+      "id": "Prievidza n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5741463,
+          48.7487204
+        ]
+      },
+      "id": "Ko\u0161"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1232131,
+          49.1188223
+        ]
+      },
+      "id": "Vy\u0161n\u00e9 H\u00e1gy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6344743,
+          48.8644745
+        ]
+      },
+      "id": "Nitrianske Pravno"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8325227,
+          48.2662436
+        ]
+      },
+      "id": "Fi\u013eakovo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2706067,
+          48.1557797
+        ]
+      },
+      "id": "Ma\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3594575,
+          48.3431271
+        ]
+      },
+      "id": "Tes\u00e1rske Mly\u0148any"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3007072,
+          48.2546477
+        ]
+      },
+      "id": "Vr\u00e1ble"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1834042,
+          48.7598432
+        ]
+      },
+      "id": "Alpinka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1696208,
+          48.38273
+        ]
+      },
+      "id": "\u017dirany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2374549,
+          48.3739087
+        ]
+      },
+      "id": "Jelenec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.406867,
+          48.4119545
+        ]
+      },
+      "id": "Topo\u013e\u010dianky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3764345,
+          48.385886
+        ]
+      },
+      "id": "Zlat\u00e9 Moravce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4239543,
+          48.3625181
+        ]
+      },
+      "id": "Zlat\u00e9 Moravce-Pr\u00edlepy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4026394,
+          48.3969942
+        ]
+      },
+      "id": "Zlat\u00e9 Moravce z\u00e1vody"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9474851,
+          48.8583844
+        ]
+      },
+      "id": "Gelnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8423286,
+          48.7827596
+        ]
+      },
+      "id": "Sklen\u00e9 pri Handlovej"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0620061,
+          48.2995469
+        ]
+      },
+      "id": "Jesensk\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1727272,
+          48.0852317
+        ]
+      },
+      "id": "\u0160urany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2656086,
+          48.0979334
+        ]
+      },
+      "id": "Hul"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2330091,
+          48.09785
+        ]
+      },
+      "id": "\u00da\u013eany nad \u017ditavou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3442713,
+          48.1027332
+        ]
+      },
+      "id": "Podh\u00e1jska"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4021605,
+          48.1384004
+        ]
+      },
+      "id": "Be\u0161a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4728559,
+          48.1853749
+        ]
+      },
+      "id": "Lok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167698,
+          48.2041136
+        ]
+      },
+      "id": "Kaln\u00e1 nad Hronom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5926485,
+          48.2113457
+        ]
+      },
+      "id": "Levice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4076383,
+          48.9947418
+        ]
+      },
+      "id": "Vydrn\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5492013,
+          48.2805258
+        ]
+      },
+      "id": "Ve\u013ek\u00e9 Kozm\u00e1lovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5361866,
+          48.310722
+        ]
+      },
+      "id": "Koz\u00e1rovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0286016,
+          48.3851476
+        ]
+      },
+      "id": "Rimavsk\u00e1 Sobota"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9008924,
+          48.9300234
+        ]
+      },
+      "id": "Humenn\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9155187,
+          48.4439574
+        ]
+      },
+      "id": "Bansk\u00e1 \u0160tiavnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5284672,
+          49.3102358
+        ]
+      },
+      "id": "Ni\u017en\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1147262,
+          48.677424
+        ]
+      },
+      "id": "Rev\u00faca"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1638759,
+          48.734955
+        ]
+      },
+      "id": "Bansk\u00e1 Bystrica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1207493,
+          48.5694989
+        ]
+      },
+      "id": "Zvolen osobn\u00e1 stanica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6479838,
+          48.413308
+        ]
+      },
+      "id": "Nov\u00e1 Ba\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6676334,
+          48.3359892
+        ]
+      },
+      "id": "Lu\u010denec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7280253,
+          48.4857086
+        ]
+      },
+      "id": "\u017darnovica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7185758,
+          49.1756393
+        ]
+      },
+      "id": "Lietavsk\u00e1 L\u00fa\u010dka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6571059,
+          48.7462318
+        ]
+      },
+      "id": "\u010cierny Balog"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7708496,
+          48.5396757
+        ]
+      },
+      "id": "Hlin\u00edk nad Hronom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2949412,
+          49.0600912
+        ]
+      },
+      "id": "Poprad-Tatry"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8705454,
+          48.5785791
+        ]
+      },
+      "id": "\u017diar nad Hronom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6438848,
+          49.0902677
+        ]
+      },
+      "id": "Rajec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5488471,
+          49.3795432
+        ]
+      },
+      "id": "Vysok\u00e1 nad Kysucou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4844484,
+          49.3721341
+        ]
+      },
+      "id": "Makov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6901378,
+          49.4235831
+        ]
+      },
+      "id": "Sta\u0161kov"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7369233,
+          49.4469244
+        ]
+      },
+      "id": "Rakov\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1969501,
+          49.1929473
+        ]
+      },
+      "id": "P\u00e1rnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2969236,
+          49.216951
+        ]
+      },
+      "id": "Doln\u00fd Kub\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2953945,
+          49.0608873
+        ]
+      },
+      "id": "Poprad-Tatry TE\u017d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3457769,
+          49.2340025
+        ]
+      },
+      "id": "Medzibrodie nad Oravou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3638518,
+          49.2611102
+        ]
+      },
+      "id": "Oravsk\u00fd Podz\u00e1mok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4784666,
+          49.3039521
+        ]
+      },
+      "id": "Podbiel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5631152,
+          49.3371111
+        ]
+      },
+      "id": "Tvrdo\u0161\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6192804,
+          49.3608447
+        ]
+      },
+      "id": "Trsten\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9567372,
+          48.0592178
+        ]
+      },
+      "id": "\u0160ahy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1138895,
+          47.7495823
+        ]
+      },
+      "id": "Kom\u00e1rom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8470325,
+          49.2017907
+        ]
+      },
+      "id": "Var\u00edn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8287016,
+          49.2060191
+        ]
+      },
+      "id": "\u017dilina-Tepli\u010dka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9468102,
+          49.1089605
+        ]
+      },
+      "id": "Vr\u00fatky n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9253241,
+          49.114721
+        ]
+      },
+      "id": "Vr\u00fatky"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0383303,
+          49.1098305
+        ]
+      },
+      "id": "Turany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1302315,
+          49.153024
+        ]
+      },
+      "id": "Kra\u013eovany"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1721319,
+          49.1269574
+        ]
+      },
+      "id": "\u013duboch\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3057285,
+          49.0583812
+        ]
+      },
+      "id": "Ru\u017eomberok-Z\u00e1palk\u00e1re\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9899188,
+          48.5762672
+        ]
+      },
+      "id": "Hronsk\u00e1 D\u00fabrava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4165905,
+          49.099743
+        ]
+      },
+      "id": "Liptovsk\u00e1 Tepl\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3058056,
+          49.0663263
+        ]
+      },
+      "id": "Ru\u017eomberok - Mal\u00e9 N\u00e1dra\u017eie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5212889,
+          49.0910138
+        ]
+      },
+      "id": "V\u00fdh. Paludza"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2246023,
+          49.1581046
+        ]
+      },
+      "id": "Hrebienok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.605126,
+          49.0922319
+        ]
+      },
+      "id": "Liptovsk\u00fd Mikul\u00e1\u0161"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6517969,
+          49.0766303
+        ]
+      },
+      "id": "Okoli\u010dn\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7213991,
+          49.0380024
+        ]
+      },
+      "id": "Liptovsk\u00fd Hr\u00e1dok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7865137,
+          49.0256441
+        ]
+      },
+      "id": "Kr\u00e1\u013eova Lehota"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9167558,
+          49.0504081
+        ]
+      },
+      "id": "V\u00fdchodn\u00e1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0647852,
+          49.0839252
+        ]
+      },
+      "id": "\u0160trba"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7879987,
+          49.4431989
+        ]
+      },
+      "id": "\u010cadca (Makovsk\u00e9 n\u00e1stupi\u0161te)"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4677419,
+          48.5820683
+        ]
+      },
+      "id": "Slavec jasky\u0148a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3546236,
+          49.1089553
+        ]
+      },
+      "id": "Studen\u00fd Potok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4232065,
+          49.1392676
+        ]
+      },
+      "id": "Ke\u017emarok"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7852637,
+          49.3675633
+        ]
+      },
+      "id": "\u017begiest\u00f3w"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3309131,
+          48.4226506
+        ]
+      },
+      "id": "Torna\u013ea"
+    }
+  ],
+  "links": [
+    {
+      "source": "Spi\u0161sk\u00e1 Bel\u00e1",
+      "target": "Spi\u0161sk\u00e1 Bel\u00e1 zast\u00e1vka"
+    },
+    {
+      "source": "Spi\u0161sk\u00e1 Bel\u00e1",
+      "target": "Ke\u017emarok"
+    },
+    {
+      "source": "Podhorany pri Ke\u017emarku",
+      "target": "Podol\u00ednec"
+    },
+    {
+      "source": "Podhorany pri Ke\u017emarku",
+      "target": "Bu\u0161ovce"
+    },
+    {
+      "source": "Podol\u00ednec",
+      "target": "Star\u00e1 \u013dubov\u0148a"
+    },
+    {
+      "source": "Spi\u0161sk\u00e1 Bel\u00e1 zast\u00e1vka",
+      "target": "Bu\u0161ovce"
+    },
+    {
+      "source": "Hronec",
+      "target": "Hronec zlievare\u0148"
+    },
+    {
+      "source": "Hronec",
+      "target": "Chvatimech \u010cHZ"
+    },
+    {
+      "source": "Dev\u00ednska Nov\u00e1 Ves",
+      "target": "Bratislava-Lama\u010d"
+    },
+    {
+      "source": "Dev\u00ednska Nov\u00e1 Ves",
+      "target": "Zohor"
+    },
+    {
+      "source": "Brezno",
+      "target": "Brezno-Halny"
+    },
+    {
+      "source": "Brezno",
+      "target": "Hronec zlievare\u0148"
+    },
+    {
+      "source": "Malacky",
+      "target": "Zohor"
+    },
+    {
+      "source": "Malacky",
+      "target": "Ve\u013ek\u00e9 Lev\u00e1re"
+    },
+    {
+      "source": "\u010ca\u0148a",
+      "target": "Barca"
+    },
+    {
+      "source": "Kr\u00e1sna nad Horn\u00e1dom",
+      "target": "Haniska pri Ko\u0161iciach"
+    },
+    {
+      "source": "Kr\u00e1sna nad Horn\u00e1dom",
+      "target": "Ni\u017en\u00e1 My\u0161\u013ea"
+    },
+    {
+      "source": "Kr\u00e1sna nad Horn\u00e1dom",
+      "target": "Barca"
+    },
+    {
+      "source": "Barca",
+      "target": "Ko\u0161ice"
+    },
+    {
+      "source": "Barca",
+      "target": "Haniska pri Ko\u0161iciach"
+    },
+    {
+      "source": "Star\u00e1 \u013dubov\u0148a",
+      "target": "Plavnica"
+    },
+    {
+      "source": "Hodejov",
+      "target": "Jesensk\u00e9"
+    },
+    {
+      "source": "Hodejov",
+      "target": "Blhovce"
+    },
+    {
+      "source": "\u010cerven\u00e1 Skala",
+      "target": "Telg\u00e1rt"
+    },
+    {
+      "source": "\u010cerven\u00e1 Skala",
+      "target": "He\u013epa"
+    },
+    {
+      "source": "Rimavsk\u00e1 Se\u010d",
+      "target": "Lenartovce"
+    },
+    {
+      "source": "Rimavsk\u00e1 Se\u010d",
+      "target": "Jesensk\u00e9"
+    },
+    {
+      "source": "Blhovce",
+      "target": "Hajn\u00e1\u010dka"
+    },
+    {
+      "source": "S\u00fctt\u0151",
+      "target": "Piszke"
+    },
+    {
+      "source": "S\u00fctt\u0151",
+      "target": "Strekov"
+    },
+    {
+      "source": "Piszke",
+      "target": "L\u00e1batlan"
+    },
+    {
+      "source": "Pohronsk\u00fd Ruskov",
+      "target": "\u010cata"
+    },
+    {
+      "source": "Pohronsk\u00fd Ruskov",
+      "target": "\u017deliezovce"
+    },
+    {
+      "source": "Likier",
+      "target": "Rimavsk\u00e9 Brezovo"
+    },
+    {
+      "source": "Likier",
+      "target": "Hn\u00fa\u0161\u0165a"
+    },
+    {
+      "source": "Priben\u00edk",
+      "target": "Ve\u013ek\u00fd Hore\u0161"
+    },
+    {
+      "source": "Priben\u00edk",
+      "target": "Dobr\u00e1"
+    },
+    {
+      "source": "Budkovce \u0160RT",
+      "target": "Drah\u0148ov"
+    },
+    {
+      "source": "Budkovce \u0160RT",
+      "target": "Budkovce"
+    },
+    {
+      "source": "Budkovce \u0160RT",
+      "target": "B\u00e1novce nad Ondavou"
+    },
+    {
+      "source": "Micha\u013eany",
+      "target": "Slovensk\u00e9 Nov\u00e9 Mesto"
+    },
+    {
+      "source": "Micha\u013eany",
+      "target": "Kuzmice"
+    },
+    {
+      "source": "Micha\u013eany",
+      "target": "\u00dapor"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Kapu\u0161any",
+      "target": "Ma\u0165ovce"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Kapu\u0161any",
+      "target": "Vojany \u0160RT"
+    },
+    {
+      "source": "Vojany \u0160RT",
+      "target": "Vojany"
+    },
+    {
+      "source": "\u010cierna nad Tisou",
+      "target": "\u010cierna nad Tisou \u0160RT"
+    },
+    {
+      "source": "\u010cierna nad Tisou",
+      "target": "Dobr\u00e1"
+    },
+    {
+      "source": "Ro\u017e\u0148ava",
+      "target": "Lipovn\u00edk"
+    },
+    {
+      "source": "Ro\u017e\u0148ava",
+      "target": "Betliar"
+    },
+    {
+      "source": "Ro\u017e\u0148ava",
+      "target": "Slavec jasky\u0148a"
+    },
+    {
+      "source": "Plavnica",
+      "target": "Plave\u010d"
+    },
+    {
+      "source": "Kunova Teplica",
+      "target": "\u0160t\u00edtnik"
+    },
+    {
+      "source": "Kunova Teplica",
+      "target": "Ple\u0161ivec"
+    },
+    {
+      "source": "\u0160t\u00edtnik",
+      "target": "Ochtin\u00e1"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Lev\u00e1re",
+      "target": "Sekule"
+    },
+    {
+      "source": "Sekule",
+      "target": "K\u00faty"
+    },
+    {
+      "source": "Svit",
+      "target": "Vy\u0161n\u00e9 H\u00e1gy"
+    },
+    {
+      "source": "Svit",
+      "target": "Poprad-Tatry"
+    },
+    {
+      "source": "\u0160trkovec",
+      "target": "Torna\u013ea"
+    },
+    {
+      "source": "\u0160trkovec",
+      "target": "Lenartovce"
+    },
+    {
+      "source": "Ochtin\u00e1",
+      "target": "Slavo\u0161ovce"
+    },
+    {
+      "source": "Hnilec",
+      "target": "Mlynky"
+    },
+    {
+      "source": "Hnilec",
+      "target": "N\u00e1lepkovo"
+    },
+    {
+      "source": "Vlachovo",
+      "target": "Dob\u0161in\u00e1"
+    },
+    {
+      "source": "Vlachovo",
+      "target": "Ni\u017en\u00e1 Slan\u00e1"
+    },
+    {
+      "source": "Ni\u017en\u00e1 Slan\u00e1",
+      "target": "Betliar"
+    },
+    {
+      "source": "Mur\u00e1\u0148",
+      "target": "Rev\u00faca"
+    },
+    {
+      "source": "Mlynky",
+      "target": "Dob\u0161insk\u00e1 \u013dadov\u00e1 Jasky\u0148a"
+    },
+    {
+      "source": "Gemersk\u00e1 H\u00f4rka",
+      "target": "Ple\u0161ivec"
+    },
+    {
+      "source": "Gemersk\u00e1 H\u00f4rka",
+      "target": "Torna\u013ea"
+    },
+    {
+      "source": "Gemersk\u00e1 H\u00f4rka",
+      "target": "Huc\u00edn"
+    },
+    {
+      "source": "Jel\u0161ava",
+      "target": "Luben\u00edk"
+    },
+    {
+      "source": "Jel\u0161ava",
+      "target": "Huc\u00edn"
+    },
+    {
+      "source": "Martin",
+      "target": "Pr\u00edbovce-Rakovo"
+    },
+    {
+      "source": "Martin",
+      "target": "Vr\u00fatky n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "source": "\u010cremo\u0161n\u00e9",
+      "target": "Harmanec jasky\u0148a"
+    },
+    {
+      "source": "\u010cremo\u0161n\u00e9",
+      "target": "Horn\u00e1 \u0160tub\u0148a"
+    },
+    {
+      "source": "Radva\u0148",
+      "target": "Bansk\u00e1 Bystrica"
+    },
+    {
+      "source": "Radva\u0148",
+      "target": "Vlkanov\u00e1"
+    },
+    {
+      "source": "Po\u010dkaj",
+      "target": "Moldava nad Bodvou mesto"
+    },
+    {
+      "source": "Po\u010dkaj",
+      "target": "Medzev"
+    },
+    {
+      "source": "Kostiviarska",
+      "target": "Bansk\u00e1 Bystrica"
+    },
+    {
+      "source": "Kostiviarska",
+      "target": "U\u013eanka"
+    },
+    {
+      "source": "Harmanec jasky\u0148a",
+      "target": "U\u013eanka"
+    },
+    {
+      "source": "Jablonov nad Tur\u0148ou",
+      "target": "Lipovn\u00edk"
+    },
+    {
+      "source": "Jablonov nad Tur\u0148ou",
+      "target": "Hrhov"
+    },
+    {
+      "source": "Spi\u0161sk\u00e9 Podhradie",
+      "target": "Spi\u0161sk\u00e9 Vlachy"
+    },
+    {
+      "source": "Hrhov",
+      "target": "Tur\u0148a nad Bodvou"
+    },
+    {
+      "source": "Moldava nad Bodvou",
+      "target": "Moldava nad Bodvou mesto"
+    },
+    {
+      "source": "Moldava nad Bodvou",
+      "target": "Tur\u0148a nad Bodvou"
+    },
+    {
+      "source": "Moldava nad Bodvou",
+      "target": "\u010ce\u010dejovce"
+    },
+    {
+      "source": "\u0160vedl\u00e1r",
+      "target": "N\u00e1lepkovo"
+    },
+    {
+      "source": "\u0160vedl\u00e1r",
+      "target": "Mn\u00ed\u0161ek nad Hnilcom"
+    },
+    {
+      "source": "Pstru\u0161a",
+      "target": "Sto\u017eok"
+    },
+    {
+      "source": "Pstru\u0161a",
+      "target": "V\u00edg\u013ea\u0161"
+    },
+    {
+      "source": "Slovensk\u00e1 \u013dup\u010da",
+      "target": "Bansk\u00e1 Bystrica"
+    },
+    {
+      "source": "Slovensk\u00e1 \u013dup\u010da",
+      "target": "Medzibrod"
+    },
+    {
+      "source": "Dobr\u00e1 Niva",
+      "target": "Zvolen osobn\u00e1 stanica"
+    },
+    {
+      "source": "Dobr\u00e1 Niva",
+      "target": "S\u00e1sa-Plie\u0161ovce"
+    },
+    {
+      "source": "Polt\u00e1r",
+      "target": "Brezni\u010dka"
+    },
+    {
+      "source": "Polt\u00e1r",
+      "target": "Zlatno"
+    },
+    {
+      "source": "Bansk\u00e1 Bel\u00e1",
+      "target": "Bansk\u00e1 \u0160tiavnica"
+    },
+    {
+      "source": "Bansk\u00e1 Bel\u00e1",
+      "target": "Kozeln\u00edk"
+    },
+    {
+      "source": "Ipe\u013esk\u00fd Sokolec",
+      "target": "Tup\u00e1"
+    },
+    {
+      "source": "Ipe\u013esk\u00fd Sokolec",
+      "target": "\u010cata"
+    },
+    {
+      "source": "\u010cata",
+      "target": "\u0160t\u00farovo tranzitn\u00e1 skupina"
+    },
+    {
+      "source": "Zohor",
+      "target": "Jablonov\u00e9"
+    },
+    {
+      "source": "Zohor",
+      "target": "Vysok\u00e1 pri Morave"
+    },
+    {
+      "source": "Dlh\u00e9 nad Cirochou",
+      "target": "Kamenica nad Cirochou"
+    },
+    {
+      "source": "Dlh\u00e9 nad Cirochou",
+      "target": "Snina"
+    },
+    {
+      "source": "Hontianske Nemce",
+      "target": "Hontianske Tes\u00e1re"
+    },
+    {
+      "source": "Hontianske Nemce",
+      "target": "Krupina"
+    },
+    {
+      "source": "Str\u00e1\u017eske",
+      "target": "Petrovce nad Laborcom"
+    },
+    {
+      "source": "Str\u00e1\u017eske",
+      "target": "Humenn\u00e9"
+    },
+    {
+      "source": "Str\u00e1\u017eske",
+      "target": "Ni\u017en\u00fd Hrabovec"
+    },
+    {
+      "source": "Hrini\u0161te",
+      "target": "B\u00e1novce nad Ondavou"
+    },
+    {
+      "source": "Hrini\u0161te",
+      "target": "Trebi\u0161ov \u0160RT"
+    },
+    {
+      "source": "K\u00faty",
+      "target": "Gbely"
+    },
+    {
+      "source": "K\u00faty",
+      "target": "\u0160a\u0161t\u00edn-Str\u00e1\u017ee"
+    },
+    {
+      "source": "\u0160t\u00farovo",
+      "target": "\u0160t\u00farovo tranzitn\u00e1 skupina"
+    },
+    {
+      "source": "\u0160t\u00farovo",
+      "target": "Ch\u013eaba zast\u00e1vka"
+    },
+    {
+      "source": "Kysuck\u00e9 Nov\u00e9 Mesto",
+      "target": "\u017dilina"
+    },
+    {
+      "source": "Kysuck\u00e9 Nov\u00e9 Mesto",
+      "target": "Kr\u00e1sno nad Kysucou"
+    },
+    {
+      "source": "\u017dih\u00e1rec",
+      "target": "Vl\u010dany"
+    },
+    {
+      "source": "\u017dih\u00e1rec",
+      "target": "Te\u0161ed\u00edkovo"
+    },
+    {
+      "source": "Rimavsk\u00e9 Zalu\u017eany",
+      "target": "Ni\u017en\u00fd Sk\u00e1lnik"
+    },
+    {
+      "source": "Rimavsk\u00e9 Zalu\u017eany",
+      "target": "Rimavsk\u00e1 Ba\u0148a"
+    },
+    {
+      "source": "Rimavsk\u00e1 Ba\u0148a",
+      "target": "Rimavsk\u00e9 Brezovo"
+    },
+    {
+      "source": "Pribeta",
+      "target": "Dvory nad \u017ditavou"
+    },
+    {
+      "source": "Pribeta",
+      "target": "Strekov"
+    },
+    {
+      "source": "Kr\u00e1sno nad Kysucou",
+      "target": "\u010cadca (Makovsk\u00e9 n\u00e1stupi\u0161te)"
+    },
+    {
+      "source": "Dvory nad \u017ditavou",
+      "target": "Nov\u00e9 Z\u00e1mky"
+    },
+    {
+      "source": "Ko\u0161ice",
+      "target": "\u010cerme\u013e"
+    },
+    {
+      "source": "\u010cadca",
+      "target": "\u010cadca (Makovsk\u00e9 n\u00e1stupi\u0161te)"
+    },
+    {
+      "source": "\u010cadca",
+      "target": "Rakov\u00e1"
+    },
+    {
+      "source": "\u010cadca",
+      "target": "Skalit\u00e9"
+    },
+    {
+      "source": "So\u013e",
+      "target": "\u010cierne nad Top\u013eou"
+    },
+    {
+      "source": "So\u013e",
+      "target": "Vranov nad Top\u013eou"
+    },
+    {
+      "source": "Drienovsk\u00e1 Nov\u00e1 Ves",
+      "target": "Pre\u0161ov"
+    },
+    {
+      "source": "Drienovsk\u00e1 Nov\u00e1 Ves",
+      "target": "Li\u010dartovce"
+    },
+    {
+      "source": "Gbely",
+      "target": "Hol\u00ed\u010d nad Moravou"
+    },
+    {
+      "source": "Hol\u00ed\u010d nad Moravou",
+      "target": "Skalica na Slovensku"
+    },
+    {
+      "source": "Vlkanov\u00e1",
+      "target": "Slia\u010d k\u00fapele"
+    },
+    {
+      "source": "Tekovsk\u00e9 Lu\u017eany",
+      "target": "Kaln\u00e1 nad Hronom"
+    },
+    {
+      "source": "Tekovsk\u00e9 Lu\u017eany",
+      "target": "\u017deliezovce"
+    },
+    {
+      "source": "Ni\u017en\u00fd Hrabovec",
+      "target": "Vranov nad Top\u013eou"
+    },
+    {
+      "source": "Ni\u017en\u00fd Hrabovec",
+      "target": "Se\u010dovce"
+    },
+    {
+      "source": "Medzilaborce",
+      "target": "Radva\u0148 nad Laborcom"
+    },
+    {
+      "source": "Michalov\u00e1",
+      "target": "Pohronsk\u00e1 Polhora"
+    },
+    {
+      "source": "Michalov\u00e1",
+      "target": "Ga\u0161parovo"
+    },
+    {
+      "source": "Kom\u00e1rno",
+      "target": "Kom\u00e1rom"
+    },
+    {
+      "source": "Kom\u00e1rno",
+      "target": "Kom\u00e1rno zria\u010fovacia stanica"
+    },
+    {
+      "source": "Chot\u00edn",
+      "target": "Kom\u00e1rno zria\u010fovacia stanica"
+    },
+    {
+      "source": "Chot\u00edn",
+      "target": "Hurbanovo"
+    },
+    {
+      "source": "Baj\u010d",
+      "target": "Nov\u00e9 Z\u00e1mky"
+    },
+    {
+      "source": "Baj\u010d",
+      "target": "Hurbanovo"
+    },
+    {
+      "source": "\u017dilina",
+      "target": "\u017dilina-Tepli\u010dka"
+    },
+    {
+      "source": "\u017dilina",
+      "target": "Lietavsk\u00e1 L\u00fa\u010dka"
+    },
+    {
+      "source": "\u017dilina",
+      "target": "Doln\u00fd Hri\u010dov"
+    },
+    {
+      "source": "Valask\u00e1, Obec",
+      "target": "Chvatimech \u010cHZ"
+    },
+    {
+      "source": "\u010cerme\u013e",
+      "target": "Kosto\u013eany nad Horn\u00e1dom"
+    },
+    {
+      "source": "Ve\u013ek\u00e1 Ida",
+      "target": "Haniska pri Ko\u0161iciach"
+    },
+    {
+      "source": "Vl\u00e1rsk\u00fd pr\u016fsmyk",
+      "target": "Nem\u0161ov\u00e1"
+    },
+    {
+      "source": "Hatalov",
+      "target": "B\u00e1novce nad Ondavou"
+    },
+    {
+      "source": "Hatalov",
+      "target": "Budkovce"
+    },
+    {
+      "source": "Slan\u010d\u00edk \u0160RT",
+      "target": "Slanec"
+    },
+    {
+      "source": "Slan\u010d\u00edk \u0160RT",
+      "target": "Ruskov"
+    },
+    {
+      "source": "Kuzmice",
+      "target": "\u010ce\u013eovce"
+    },
+    {
+      "source": "Kuzmice",
+      "target": "Slanec"
+    },
+    {
+      "source": "Ni\u017en\u00e1 My\u0161\u013ea",
+      "target": "Ruskov"
+    },
+    {
+      "source": "Chvatimech \u010cHZ",
+      "target": "Podbrezov\u00e1"
+    },
+    {
+      "source": "Sto\u017eok",
+      "target": "Kriv\u00e1\u0148"
+    },
+    {
+      "source": "Nov\u00e9 Z\u00e1mky",
+      "target": "Pal\u00e1rikovo"
+    },
+    {
+      "source": "Nov\u00e9 Z\u00e1mky",
+      "target": "B\u00e1nov"
+    },
+    {
+      "source": "Pal\u00e1rikovo",
+      "target": "Tvrdo\u0161ovce"
+    },
+    {
+      "source": "Pal\u00e1rikovo",
+      "target": "\u0160urany"
+    },
+    {
+      "source": "Tvrdo\u0161ovce",
+      "target": "Trnovec nad V\u00e1hom"
+    },
+    {
+      "source": "Trnovec nad V\u00e1hom",
+      "target": "\u0160a\u013ea"
+    },
+    {
+      "source": "Te\u0161ed\u00edkovo",
+      "target": "\u0160a\u013ea"
+    },
+    {
+      "source": "Neded",
+      "target": "Vl\u010dany"
+    },
+    {
+      "source": "Galanta",
+      "target": "Sl\u00e1dkovi\u010dovo"
+    },
+    {
+      "source": "Galanta",
+      "target": "G\u00e1\u0148"
+    },
+    {
+      "source": "Galanta",
+      "target": "\u0160a\u013ea"
+    },
+    {
+      "source": "Sabinov",
+      "target": "Ve\u013ek\u00fd \u0160ari\u0161"
+    },
+    {
+      "source": "Sabinov",
+      "target": "Lipany"
+    },
+    {
+      "source": "Lipany",
+      "target": "Pust\u00e9 Pole"
+    },
+    {
+      "source": "Sl\u00e1dkovi\u010dovo",
+      "target": "\u0160enkvice"
+    },
+    {
+      "source": "Byt\u010da",
+      "target": "Pova\u017esk\u00e1 Bystrica"
+    },
+    {
+      "source": "Byt\u010da",
+      "target": "Doln\u00fd Hri\u010dov"
+    },
+    {
+      "source": "Plave\u010d",
+      "target": "\u017begiest\u00f3w"
+    },
+    {
+      "source": "Plave\u010d",
+      "target": "Pust\u00e9 Pole"
+    },
+    {
+      "source": "Zlatn\u00e1 na Ostrove",
+      "target": "Zemianska Ol\u010da"
+    },
+    {
+      "source": "Zlatn\u00e1 na Ostrove",
+      "target": "Kom\u00e1rom"
+    },
+    {
+      "source": "Ve\u013ek\u00fd Meder",
+      "target": "Zemianska Ol\u010da"
+    },
+    {
+      "source": "Ve\u013ek\u00fd Meder",
+      "target": "Doln\u00fd \u0160t\u00e1l"
+    },
+    {
+      "source": "Lehnice",
+      "target": "Kvetoslavov"
+    },
+    {
+      "source": "Lehnice",
+      "target": "Orechov\u00e1 Pot\u00f4\u0148"
+    },
+    {
+      "source": "Dunajsk\u00e1 Streda",
+      "target": "Doln\u00fd \u0160t\u00e1l"
+    },
+    {
+      "source": "Pova\u017esk\u00e1 Bystrica",
+      "target": "P\u00fachov"
+    },
+    {
+      "source": "K\u013ea\u010dany",
+      "target": "Ri\u0161\u0148ovce"
+    },
+    {
+      "source": "K\u013ea\u010dany",
+      "target": "Hlohovec"
+    },
+    {
+      "source": "\u0160trba O\u017d",
+      "target": "Vy\u0161n\u00e9 H\u00e1gy"
+    },
+    {
+      "source": "\u0160trba O\u017d",
+      "target": "\u0160trba"
+    },
+    {
+      "source": "Kvetoslavov",
+      "target": "Podunajsk\u00e9 Biskupice"
+    },
+    {
+      "source": "Podunajsk\u00e9 Biskupice",
+      "target": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "source": "Bratislava predmestie",
+      "target": "Bratislava-Nov\u00e9 Mesto"
+    },
+    {
+      "source": "Bratislava predmestie",
+      "target": "Bratislava-Ra\u010da"
+    },
+    {
+      "source": "Bratislava-Nov\u00e9 Mesto",
+      "target": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "source": "Bratislava-Nov\u00e9 Mesto",
+      "target": "Bratislava-Ra\u010da"
+    },
+    {
+      "source": "Bratislava-Nov\u00e9 Mesto",
+      "target": "Bratislava-Petr\u017ealka"
+    },
+    {
+      "source": "Bratislava-Ra\u010da",
+      "target": "Pezinok"
+    },
+    {
+      "source": "Ko\u0161kovce",
+      "target": "Udavsk\u00e9"
+    },
+    {
+      "source": "Ko\u0161kovce",
+      "target": "Radva\u0148 nad Laborcom"
+    },
+    {
+      "source": "Ple\u0161ivec",
+      "target": "Slavec jasky\u0148a"
+    },
+    {
+      "source": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica",
+      "target": "Bratislava-Petr\u017ealka"
+    },
+    {
+      "source": "Levo\u010da",
+      "target": "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    },
+    {
+      "source": "Vojany",
+      "target": "Drah\u0148ov"
+    },
+    {
+      "source": "Ma\u0165ovce \u0160RT",
+      "target": "Ma\u0165ovce"
+    },
+    {
+      "source": "Bratislava-Petr\u017ealka",
+      "target": "Rusovce"
+    },
+    {
+      "source": "\u0160ari\u0161sk\u00e9 L\u00faky",
+      "target": "Pre\u0161ov"
+    },
+    {
+      "source": "\u0160ari\u0161sk\u00e9 L\u00faky",
+      "target": "Ve\u013ek\u00fd \u0160ari\u0161"
+    },
+    {
+      "source": "\u0160ari\u0161sk\u00e9 L\u00faky",
+      "target": "Kapu\u0161any pri Pre\u0161ove"
+    },
+    {
+      "source": "\u010ce\u013eovce",
+      "target": "Trebi\u0161ov"
+    },
+    {
+      "source": "L\u00e1batlan",
+      "target": "Nyerges\u00fajfalu"
+    },
+    {
+      "source": "Zbojsk\u00e1",
+      "target": "Tisovec"
+    },
+    {
+      "source": "Zbojsk\u00e1",
+      "target": "Pohronsk\u00e1 Polhora"
+    },
+    {
+      "source": "Ni\u017en\u00fd Sk\u00e1lnik",
+      "target": "Rimavsk\u00e1 Sobota"
+    },
+    {
+      "source": "Hajn\u00e1\u010dka",
+      "target": "Fi\u013eakovo"
+    },
+    {
+      "source": "Kosto\u013eany nad Horn\u00e1dom",
+      "target": "Kysak"
+    },
+    {
+      "source": "Tisovec",
+      "target": "Hn\u00fa\u0161\u0165a"
+    },
+    {
+      "source": "Podre\u010dany",
+      "target": "Lovinoba\u0148a"
+    },
+    {
+      "source": "Podre\u010dany",
+      "target": "Tom\u00e1\u0161ovce"
+    },
+    {
+      "source": "Podre\u010dany",
+      "target": "Brezni\u010dka"
+    },
+    {
+      "source": "M\u00fdtna",
+      "target": "Lovinoba\u0148a"
+    },
+    {
+      "source": "M\u00fdtna",
+      "target": "Podkriv\u00e1\u0148"
+    },
+    {
+      "source": "Slia\u010d k\u00fapele",
+      "target": "Zvolen n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "source": "Tom\u00e1\u0161ovce",
+      "target": "Lu\u010denec"
+    },
+    {
+      "source": "Podkriv\u00e1\u0148",
+      "target": "Kriv\u00e1\u0148"
+    },
+    {
+      "source": "Pr\u00edbovce-Rakovo",
+      "target": "Diviaky"
+    },
+    {
+      "source": "Kokava nad Rimavicou",
+      "target": "Zlatno"
+    },
+    {
+      "source": "Pr\u0161a",
+      "target": "Fi\u013eakovo"
+    },
+    {
+      "source": "Pr\u0161a",
+      "target": "Lu\u010denec"
+    },
+    {
+      "source": "Medzibrod",
+      "target": "Dubov\u00e1"
+    },
+    {
+      "source": "He\u013epa",
+      "target": "Polomka"
+    },
+    {
+      "source": "Polomka",
+      "target": "Ga\u0161parovo"
+    },
+    {
+      "source": "Dob\u0161insk\u00e1 \u013dadov\u00e1 Jasky\u0148a",
+      "target": "Telg\u00e1rt"
+    },
+    {
+      "source": "Snina",
+      "target": "Stak\u010d\u00edn"
+    },
+    {
+      "source": "Margecany",
+      "target": "Mal\u00e1 Lodina"
+    },
+    {
+      "source": "Margecany",
+      "target": "Gelnica"
+    },
+    {
+      "source": "Kysak",
+      "target": "Mal\u00e1 Lodina"
+    },
+    {
+      "source": "Kysak",
+      "target": "Li\u010dartovce"
+    },
+    {
+      "source": "Handlov\u00e1",
+      "target": "Chrenovec"
+    },
+    {
+      "source": "Handlov\u00e1",
+      "target": "Sklen\u00e9 pri Handlovej"
+    },
+    {
+      "source": "Kremnick\u00e9 Bane",
+      "target": "Kremnica"
+    },
+    {
+      "source": "Kremnick\u00e9 Bane",
+      "target": "Horn\u00e1 \u0160tub\u0148a"
+    },
+    {
+      "source": "Chrenovec",
+      "target": "Prievidza"
+    },
+    {
+      "source": "\u010cierne nad Top\u013eou",
+      "target": "Hanu\u0161ovce nad Top\u013eou"
+    },
+    {
+      "source": "Kapu\u0161any pri Pre\u0161ove",
+      "target": "Lipn\u00edky"
+    },
+    {
+      "source": "Kapu\u0161any pri Pre\u0161ove",
+      "target": "Raslavice"
+    },
+    {
+      "source": "Lipn\u00edky",
+      "target": "Hanu\u0161ovce nad Top\u013eou"
+    },
+    {
+      "source": "Krompachy",
+      "target": "Spi\u0161sk\u00e9 Vlachy"
+    },
+    {
+      "source": "Krompachy",
+      "target": "Gelnica"
+    },
+    {
+      "source": "Ga\u0161parovo",
+      "target": "Brezno-Halny"
+    },
+    {
+      "source": "Podbrezov\u00e1",
+      "target": "Dubov\u00e1"
+    },
+    {
+      "source": "Diviaky",
+      "target": "Horn\u00e1 \u0160tub\u0148a"
+    },
+    {
+      "source": "Spi\u0161sk\u00e9 Vlachy",
+      "target": "Marku\u0161ovce"
+    },
+    {
+      "source": "Raslavice",
+      "target": "Bardejov"
+    },
+    {
+      "source": "Barto\u0161ova Leh\u00f4tka",
+      "target": "Kremnica"
+    },
+    {
+      "source": "Barto\u0161ova Leh\u00f4tka",
+      "target": "\u017diar nad Hronom"
+    },
+    {
+      "source": "Barto\u0161ova Leh\u00f4tka",
+      "target": "Hronsk\u00e1 D\u00fabrava"
+    },
+    {
+      "source": "Marku\u0161ovce",
+      "target": "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
+    },
+    {
+      "source": "Kamenica nad Cirochou",
+      "target": "Udavsk\u00e9"
+    },
+    {
+      "source": "Kozeln\u00edk",
+      "target": "Hronsk\u00e1 D\u00fabrava"
+    },
+    {
+      "source": "Udavsk\u00e9",
+      "target": "Humenn\u00e9"
+    },
+    {
+      "source": "Luben\u00edk",
+      "target": "Rev\u00faca"
+    },
+    {
+      "source": "Hontianske Tes\u00e1re",
+      "target": "Tup\u00e1"
+    },
+    {
+      "source": "V\u00edg\u013ea\u0161",
+      "target": "Zvolen n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "source": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+      "target": "Vydrn\u00edk"
+    },
+    {
+      "source": "Krupina",
+      "target": "S\u00e1sa-Plie\u0161ovce"
+    },
+    {
+      "source": "Zvolen n\u00e1kladn\u00e1 stanica",
+      "target": "Zvolen osobn\u00e1 stanica"
+    },
+    {
+      "source": "Horn\u00e1 \u0160tub\u0148a",
+      "target": "Sklen\u00e9 pri Handlovej"
+    },
+    {
+      "source": "Matejovce pri Poprade",
+      "target": "Poprad-Tatry TE\u017d"
+    },
+    {
+      "source": "Matejovce pri Poprade",
+      "target": "Studen\u00fd Potok"
+    },
+    {
+      "source": "Liskov\u00e1 zast\u00e1vka",
+      "target": "Ru\u017eomberok"
+    },
+    {
+      "source": "Liskov\u00e1 zast\u00e1vka",
+      "target": "Liptovsk\u00e1 Tepl\u00e1"
+    },
+    {
+      "source": "Brezni\u010dka",
+      "target": "Lu\u010denec"
+    },
+    {
+      "source": "Se\u010dovce",
+      "target": "Trebi\u0161ov"
+    },
+    {
+      "source": "Turzovka",
+      "target": "Sta\u0161kov"
+    },
+    {
+      "source": "Turzovka",
+      "target": "Vysok\u00e1 nad Kysucou"
+    },
+    {
+      "source": "Trebi\u0161ov",
+      "target": "\u00dapor"
+    },
+    {
+      "source": "Trebi\u0161ov",
+      "target": "Trebi\u0161ov \u0160RT"
+    },
+    {
+      "source": "B\u00e1novce nad Ondavou",
+      "target": "Michalovce"
+    },
+    {
+      "source": "Ve\u013ek\u00fd Hore\u0161",
+      "target": "Streda nad Bodrogom"
+    },
+    {
+      "source": "Streda nad Bodrogom",
+      "target": "Slovensk\u00e9 Nov\u00e9 Mesto"
+    },
+    {
+      "source": "Slanec",
+      "target": "Ruskov"
+    },
+    {
+      "source": "Mn\u00ed\u0161ek nad Hnilcom",
+      "target": "Prakovce"
+    },
+    {
+      "source": "Prakovce",
+      "target": "Gelnica"
+    },
+    {
+      "source": "Tup\u00e1",
+      "target": "\u0160ahy"
+    },
+    {
+      "source": "Va\u010fovce",
+      "target": "\u010cachtice"
+    },
+    {
+      "source": "Va\u010fovce",
+      "target": "Star\u00e1 Tur\u00e1"
+    },
+    {
+      "source": "Kapince",
+      "target": "Nov\u00e9 Sady"
+    },
+    {
+      "source": "Kapince",
+      "target": "Ve\u013ek\u00e9 Rip\u0148any"
+    },
+    {
+      "source": "Jablonov\u00e9",
+      "target": "Kuchy\u0148a"
+    },
+    {
+      "source": "Plaveck\u00e9 Podhradie",
+      "target": "Roho\u017en\u00edk"
+    },
+    {
+      "source": "Roho\u017en\u00edk",
+      "target": "Kuchy\u0148a"
+    },
+    {
+      "source": "Z\u00e1horsk\u00e1 Ves",
+      "target": "Vysok\u00e1 pri Morave"
+    },
+    {
+      "source": "\u010cakajovce",
+      "target": "Jel\u0161ovce"
+    },
+    {
+      "source": "\u010cakajovce",
+      "target": "Zbehy"
+    },
+    {
+      "source": "\u010cakajovce",
+      "target": "Lu\u017eianky"
+    },
+    {
+      "source": "Jel\u0161ovce",
+      "target": "\u017dirany"
+    },
+    {
+      "source": "Jel\u0161ovce",
+      "target": "Lu\u017eianky TIP"
+    },
+    {
+      "source": "Jel\u0161ovce",
+      "target": "Ludanice"
+    },
+    {
+      "source": "\u0160a\u0161t\u00edn-Str\u00e1\u017ee",
+      "target": "\u0160ajd\u00edkove Humence"
+    },
+    {
+      "source": "\u0160ajd\u00edkove Humence",
+      "target": "Senica"
+    },
+    {
+      "source": "Senica",
+      "target": "Jablonica"
+    },
+    {
+      "source": "Jablonica",
+      "target": "Smolenice"
+    },
+    {
+      "source": "Jablonica",
+      "target": "Brezov\u00e1 pod Bradlom"
+    },
+    {
+      "source": "Boler\u00e1z",
+      "target": "Smolenice"
+    },
+    {
+      "source": "Boler\u00e1z",
+      "target": "\u0160elpice"
+    },
+    {
+      "source": "\u0160elpice",
+      "target": "Nem\u010danka"
+    },
+    {
+      "source": "Nem\u010danka",
+      "target": "Trnava"
+    },
+    {
+      "source": "Pezinok",
+      "target": "\u0160enkvice"
+    },
+    {
+      "source": "C\u00edfer",
+      "target": "Trnava"
+    },
+    {
+      "source": "C\u00edfer",
+      "target": "\u0160enkvice"
+    },
+    {
+      "source": "Tren\u010dianska Turn\u00e1",
+      "target": "Tren\u010d\u00edn"
+    },
+    {
+      "source": "Tren\u010dianska Turn\u00e1",
+      "target": "Tren\u010d\u00edn-Zlatovce"
+    },
+    {
+      "source": "Tren\u010dianska Turn\u00e1",
+      "target": "Tren\u010dianske Bohuslavice"
+    },
+    {
+      "source": "Sere\u010f",
+      "target": "Siladice"
+    },
+    {
+      "source": "Sere\u010f",
+      "target": "G\u00e1\u0148"
+    },
+    {
+      "source": "Sere\u010f",
+      "target": "Kri\u017eovany nad Dudv\u00e1hom"
+    },
+    {
+      "source": "Tatransk\u00e1 Lomnica",
+      "target": "Studen\u00fd Potok"
+    },
+    {
+      "source": "Leopoldov",
+      "target": "Siladice"
+    },
+    {
+      "source": "Leopoldov",
+      "target": "Ve\u013ek\u00e9 Kosto\u013eany"
+    },
+    {
+      "source": "Leopoldov",
+      "target": "Hlohovec"
+    },
+    {
+      "source": "Siladice",
+      "target": "Kri\u017eovany nad Dudv\u00e1hom"
+    },
+    {
+      "source": "Pie\u0161\u0165any",
+      "target": "\u010cachtice"
+    },
+    {
+      "source": "Pie\u0161\u0165any",
+      "target": "Ve\u013ek\u00e9 Kosto\u013eany"
+    },
+    {
+      "source": "Tren\u010dianske Bohuslavice",
+      "target": "Nov\u00e9 Mesto nad V\u00e1hom"
+    },
+    {
+      "source": "Tren\u010d\u00edn",
+      "target": "Tren\u010d\u00edn-Zlatovce"
+    },
+    {
+      "source": "Tren\u010d\u00edn",
+      "target": "Mn\u00edchova Lehota"
+    },
+    {
+      "source": "Tren\u010d\u00edn",
+      "target": "Tren\u010dianska Tepl\u00e1"
+    },
+    {
+      "source": "Dubnica nad V\u00e1hom",
+      "target": "Tren\u010dianska Tepl\u00e1"
+    },
+    {
+      "source": "Dubnica nad V\u00e1hom",
+      "target": "Ilava"
+    },
+    {
+      "source": "Dubnica nad V\u00e1hom",
+      "target": "Prusk\u00e9"
+    },
+    {
+      "source": "Dubnica nad V\u00e1hom",
+      "target": "Nem\u0161ov\u00e1"
+    },
+    {
+      "source": "Ilava",
+      "target": "Ladce"
+    },
+    {
+      "source": "Paprad",
+      "target": "Poriadie"
+    },
+    {
+      "source": "Paprad",
+      "target": "Star\u00e1 Tur\u00e1"
+    },
+    {
+      "source": "Nov\u00e9 Mesto nad V\u00e1hom",
+      "target": "\u010cachtice"
+    },
+    {
+      "source": "L\u00faky pod Makytou",
+      "target": "P\u00fachov"
+    },
+    {
+      "source": "P\u00fachov",
+      "target": "Belu\u0161a"
+    },
+    {
+      "source": "Ladce",
+      "target": "Belu\u0161a"
+    },
+    {
+      "source": "Ladce",
+      "target": "Prusk\u00e9"
+    },
+    {
+      "source": "Ladce",
+      "target": "Lednick\u00e9 Rovne"
+    },
+    {
+      "source": "Nem\u0161ov\u00e1",
+      "target": "Tren\u010dianska Tepl\u00e1"
+    },
+    {
+      "source": "B\u00e1novce nad Bebravou",
+      "target": "Doln\u00e9 Na\u0161tice"
+    },
+    {
+      "source": "B\u00e1novce nad Bebravou",
+      "target": "Horn\u00e9 Ozorovce"
+    },
+    {
+      "source": "Doln\u00e9 Na\u0161tice",
+      "target": "Rybany"
+    },
+    {
+      "source": "Rybany",
+      "target": "\u017dabokreky nad Nitrou"
+    },
+    {
+      "source": "Svinn\u00e1",
+      "target": "Ruskovce"
+    },
+    {
+      "source": "Svinn\u00e1",
+      "target": "Mn\u00edchova Lehota"
+    },
+    {
+      "source": "Horn\u00e9 Ozorovce",
+      "target": "Ruskovce"
+    },
+    {
+      "source": "Ru\u017eomberok",
+      "target": "\u013duboch\u0148a"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Rip\u0148any",
+      "target": "Rado\u0161ina"
+    },
+    {
+      "source": "Nov\u00e9 Sady",
+      "target": "Zbehy"
+    },
+    {
+      "source": "Kri\u017eovany nad Dudv\u00e1hom",
+      "target": "Trnava"
+    },
+    {
+      "source": "Ri\u0161\u0148ovce",
+      "target": "Alek\u0161ince"
+    },
+    {
+      "source": "Anda\u010d",
+      "target": "Zbehy"
+    },
+    {
+      "source": "Ve\u013ek\u00fd K\u00fdr",
+      "target": "Nitra"
+    },
+    {
+      "source": "Ve\u013ek\u00fd K\u00fdr",
+      "target": "\u0160urany"
+    },
+    {
+      "source": "Nitra",
+      "target": "Lu\u017eianky"
+    },
+    {
+      "source": "B\u00e1nov",
+      "target": "\u0160urany"
+    },
+    {
+      "source": "Lu\u017eianky",
+      "target": "Lu\u017eianky TIP"
+    },
+    {
+      "source": "Topo\u013e\u010dany",
+      "target": "Bo\u0161any"
+    },
+    {
+      "source": "Topo\u013e\u010dany",
+      "target": "Ludanice"
+    },
+    {
+      "source": "Chynorany",
+      "target": "Bo\u0161any"
+    },
+    {
+      "source": "Chynorany",
+      "target": "\u017dabokreky nad Nitrou"
+    },
+    {
+      "source": "\u017dabokreky nad Nitrou",
+      "target": "Ve\u013ek\u00e9 Bielice"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Bielice",
+      "target": "Ve\u013ek\u00e9 Uherce"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Uherce",
+      "target": "Oslany"
+    },
+    {
+      "source": "Oslany",
+      "target": "Zemianske Kosto\u013eany"
+    },
+    {
+      "source": "Zemianske Kosto\u013eany",
+      "target": "Nov\u00e1ky"
+    },
+    {
+      "source": "Nov\u00e1ky",
+      "target": "Ko\u0161"
+    },
+    {
+      "source": "Prievidza",
+      "target": "Prievidza n\u00e1kladn\u00e1 stanica"
+    },
+    {
+      "source": "Prievidza",
+      "target": "Nitrianske Pravno"
+    },
+    {
+      "source": "Prievidza n\u00e1kladn\u00e1 stanica",
+      "target": "Ko\u0161"
+    },
+    {
+      "source": "Ma\u0148a",
+      "target": "\u00da\u013eany nad \u017ditavou"
+    },
+    {
+      "source": "Ma\u0148a",
+      "target": "Vr\u00e1ble"
+    },
+    {
+      "source": "Tes\u00e1rske Mly\u0148any",
+      "target": "Vr\u00e1ble"
+    },
+    {
+      "source": "Tes\u00e1rske Mly\u0148any",
+      "target": "Zlat\u00e9 Moravce"
+    },
+    {
+      "source": "Tes\u00e1rske Mly\u0148any",
+      "target": "Jelenec"
+    },
+    {
+      "source": "\u017dirany",
+      "target": "Jelenec"
+    },
+    {
+      "source": "Topo\u013e\u010dianky",
+      "target": "Zlat\u00e9 Moravce z\u00e1vody"
+    },
+    {
+      "source": "Zlat\u00e9 Moravce",
+      "target": "Zlat\u00e9 Moravce z\u00e1vody"
+    },
+    {
+      "source": "Zlat\u00e9 Moravce-Pr\u00edlepy",
+      "target": "Koz\u00e1rovce"
+    },
+    {
+      "source": "Zlat\u00e9 Moravce-Pr\u00edlepy",
+      "target": "Zlat\u00e9 Moravce z\u00e1vody"
+    },
+    {
+      "source": "Jesensk\u00e9",
+      "target": "Rimavsk\u00e1 Sobota"
+    },
+    {
+      "source": "\u0160urany",
+      "target": "\u00da\u013eany nad \u017ditavou"
+    },
+    {
+      "source": "Hul",
+      "target": "Podh\u00e1jska"
+    },
+    {
+      "source": "Hul",
+      "target": "\u00da\u013eany nad \u017ditavou"
+    },
+    {
+      "source": "Podh\u00e1jska",
+      "target": "Be\u0161a"
+    },
+    {
+      "source": "Be\u0161a",
+      "target": "Lok"
+    },
+    {
+      "source": "Lok",
+      "target": "Kaln\u00e1 nad Hronom"
+    },
+    {
+      "source": "Kaln\u00e1 nad Hronom",
+      "target": "Levice"
+    },
+    {
+      "source": "Levice",
+      "target": "Ve\u013ek\u00e9 Kozm\u00e1lovce"
+    },
+    {
+      "source": "Vydrn\u00edk",
+      "target": "Poprad-Tatry"
+    },
+    {
+      "source": "Ve\u013ek\u00e9 Kozm\u00e1lovce",
+      "target": "Koz\u00e1rovce"
+    },
+    {
+      "source": "Koz\u00e1rovce",
+      "target": "Nov\u00e1 Ba\u0148a"
+    },
+    {
+      "source": "Ni\u017en\u00e1",
+      "target": "Podbiel"
+    },
+    {
+      "source": "Ni\u017en\u00e1",
+      "target": "Tvrdo\u0161\u00edn"
+    },
+    {
+      "source": "Zvolen osobn\u00e1 stanica",
+      "target": "Hronsk\u00e1 D\u00fabrava"
+    },
+    {
+      "source": "Nov\u00e1 Ba\u0148a",
+      "target": "\u017darnovica"
+    },
+    {
+      "source": "\u017darnovica",
+      "target": "Hlin\u00edk nad Hronom"
+    },
+    {
+      "source": "Lietavsk\u00e1 L\u00fa\u010dka",
+      "target": "Rajec"
+    },
+    {
+      "source": "Hlin\u00edk nad Hronom",
+      "target": "\u017diar nad Hronom"
+    },
+    {
+      "source": "Poprad-Tatry",
+      "target": "Poprad-Tatry TE\u017d"
+    },
+    {
+      "source": "Vysok\u00e1 nad Kysucou",
+      "target": "Makov"
+    },
+    {
+      "source": "Sta\u0161kov",
+      "target": "Rakov\u00e1"
+    },
+    {
+      "source": "P\u00e1rnica",
+      "target": "Doln\u00fd Kub\u00edn"
+    },
+    {
+      "source": "P\u00e1rnica",
+      "target": "Kra\u013eovany"
+    },
+    {
+      "source": "Doln\u00fd Kub\u00edn",
+      "target": "Medzibrodie nad Oravou"
+    },
+    {
+      "source": "Medzibrodie nad Oravou",
+      "target": "Oravsk\u00fd Podz\u00e1mok"
+    },
+    {
+      "source": "Oravsk\u00fd Podz\u00e1mok",
+      "target": "Podbiel"
+    },
+    {
+      "source": "Tvrdo\u0161\u00edn",
+      "target": "Trsten\u00e1"
+    },
+    {
+      "source": "Var\u00edn",
+      "target": "\u017dilina-Tepli\u010dka"
+    },
+    {
+      "source": "Var\u00edn",
+      "target": "Vr\u00fatky"
+    },
+    {
+      "source": "Vr\u00fatky n\u00e1kladn\u00e1 stanica",
+      "target": "Vr\u00fatky"
+    },
+    {
+      "source": "Vr\u00fatky n\u00e1kladn\u00e1 stanica",
+      "target": "Turany"
+    },
+    {
+      "source": "Turany",
+      "target": "Kra\u013eovany"
+    },
+    {
+      "source": "Kra\u013eovany",
+      "target": "\u013duboch\u0148a"
+    },
+    {
+      "source": "Liptovsk\u00e1 Tepl\u00e1",
+      "target": "V\u00fdh. Paludza"
+    },
+    {
+      "source": "V\u00fdh. Paludza",
+      "target": "Liptovsk\u00fd Mikul\u00e1\u0161"
+    },
+    {
+      "source": "Liptovsk\u00fd Mikul\u00e1\u0161",
+      "target": "Okoli\u010dn\u00e9"
+    },
+    {
+      "source": "Okoli\u010dn\u00e9",
+      "target": "Liptovsk\u00fd Hr\u00e1dok"
+    },
+    {
+      "source": "Liptovsk\u00fd Hr\u00e1dok",
+      "target": "Kr\u00e1\u013eova Lehota"
+    },
+    {
+      "source": "Kr\u00e1\u013eova Lehota",
+      "target": "V\u00fdchodn\u00e1"
+    },
+    {
+      "source": "V\u00fdchodn\u00e1",
+      "target": "\u0160trba"
+    },
+    {
+      "source": "Studen\u00fd Potok",
+      "target": "Ke\u017emarok"
+    }
+  ]
+}

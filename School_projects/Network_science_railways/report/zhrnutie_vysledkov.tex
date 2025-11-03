@@ -1,0 +1,17 @@
+\documentclass[main.tex]{subfiles}
+
+\begin{document}
+	\section{Zhrnutie}
+Naším cieľom bolo komplexne porovnať železničné siete Slovenska a Česka z hľadiska ich štruktúry, efektívnosti a odolnosti voči výpadkom. Pri spracovaní verejne dostupných datasetov sme museli dáta výrazne korigovať -- najmä tie české obsahovali viaceré anomálie (napr. pražské metro, nepripojené stanice), ktoré sme ručne doplnili alebo odstránili, aby graf čo najvernejšie zodpovedal realite.
+
+Deskriptívna analýza ukázala, že Česká republika disponuje nielen väčším absolútnym počtom staníc, ale aj vyššou hustotou staníc na tisíc kilometrov štvorcových. Priemerný stupeň vrchola aj hustota siete sú pritom porovnateľné, no česká sieť má citeľne väčší počet odpojených komponentov -- časť tohto rozdielu pripisujeme neúplným dátam.
+
+Efektívnosť trás sme testovali stochasticky: milión náhodných dvojíc staníc, vážených počtom obyvateľov v danej obci. Priemerný pomer dĺžky najkratšej železničnej cesty k priamemu vzdušnému smeru vyšiel $1,79$ pre Slovensko a $1,34$ pre Česko, čo potvrdzuje hypotézu, že slovenská sieť vedie cestujúcich po menej priamych trasách.
+
+Normalizovaný Kirchhoffov index (globálna rezistentnosť siete) dosiahol $92,3$ pre Slovensko a $66$ pre Česko, čo indikuje, že česká sieť ponúka v priemere lepšiu priepustnosť medzi stanicami. Náhodné „štvorcové“ prepojenia v grafe naznačili, že obe siete sú už pomerne blízko lokálnej optimality -- pri zachovaní celkovej dĺžky koľajníc sa ich konektivita výrazne zlepšiť nedá.
+
+Centralita efektívnej rezistencie odhalila zraniteľnosť Slovenska voči výpadkom: pri odstránení náhodnej stanice sa rezistentnosť v priemere zvýši o $7\%$, zatiaľ čo v Česku len $1\%$. Kritické sú najmä tri úseky spájajúce západ/stred s východom (Vrútky-Poprad, Košice-Zvolen, Kysak-Banská Bystrica). V Česku je podobne citlivý len dlhý koridor Břeclav-Jihlava a dva kratšie úseky okolo Ústí nad Orlicí a Hanušovíc.
+
+Celkovo sa teda potvrdilo, že česká železničná infraštruktúra je hustejšia, lepšie prepojená a ponúka kratšie, priamočiarejšie trasy než slovenská. Slovenská sieť má vyššiu globálnu rezistenciu a je podstatne náchylnejšia na výpadok jednotlivých uzlov či tratí. Napriek tomu obidve siete už dosiahli blízkosť lokálneho optima -- simulované „štvorcové“ prepojenia dokázali ich Kirchhoffov index vylepšiť len minimálne, takže výraznejšie zlepšenie by si vyžiadalo skôr nové trate než preskupovanie existujúcich. Pre Slovensko by mal najväčší prínos cielený posilnený koridor medzi západom, stredom a východom a dobudovanie chýbajúcich priamych segmentov, čo by skrátilo trasy a súčasne zvýšilo odolnosť celej siete.
+	
+\end{document}
