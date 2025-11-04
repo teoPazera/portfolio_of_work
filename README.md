@@ -1,64 +1,86 @@
-# My Portfolio of projects
+# My Portfolio of Projects
 
-Welcome to my portfolio repository. This space showcases a selection of my academic and industry projects. As an aspiring researcher in agentic AI systems, I aim to demonstrate my expertise in building autonomous AI agents, Retrieval-Augmented Generation (RAG) systems, natural language processing (NLP), and process automation—skills directly relevant to collaborative, industry-driven research environments like the Agentic Systems Lab.
+Welcome — this repository presents a selection of my academic and professional work. I am focused on agentic AI systems and on applying them to automate domain processes by designing clear, practical agentic frameworks. My experience includes building Retrieval-Augmented Generation (RAG) systems, agentic pipelines, natural language processing (NLP) solutions, and workflow automation.
+
+---
 
 ## About Me
 
-I am Teo Pazera, a Master's student in Data Science at Radboud University in Nijmegen, Netherlands. Alongside my studies, I work as a Data Science Intern at Zurich Insurance, currently based in the Netherlands (previously in the Bratislava Competence Center). My role involves implementing large language models (LLMs) for workplace automation, developing AI agents for task-specific operations, creating RAG-based chatbots, and other more industry standard data science projects like classifications of text data using NLP techniques.
+My name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am based in the Netherlands (previously in the Bratislava Competence Center).
 
-With over 1.5 years of experience at Zurich and a Bachelor's in Data Science from Comenius University in Bratislava, I have worked on my skills in translating complex AI concepts into real-world solutions. My work emphasizes ethical AI deployment, performance optimization through heuristics, and collaboration between technical and business teams—qualities essential for succeeding in interdisciplinary research internships.
+In my role I implement large language models (LLMs) for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also work on standard data science problems such as text classification using NLP methods. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
 
-This repository highlights key projects from my Bachelor's studies and professional tenure. Due to non-disclosure agreements (NDAs), Zurich-related code and data are not shared; instead, I provide high-level overviews, methodologies, and outcomes. For my Bachelor's thesis, open-source code (excluding proprietary data) is available in the dedicated folder.
+This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. Due to non-disclosure agreements, Zurich-specific code and data are not included; instead I provide high-level descriptions of methods and results. Open-source code related to my bachelor’s thesis is available in the corresponding folder (proprietary data excluded).
+
+---
 
 ## Education
 
-- **Master's in Data Science** (Ongoing), Radboud University, Nijmegen, Netherlands  
+* **MSc in Data Science** (ongoing) — Radboud University, Nijmegen, Netherlands
+* **BSc in Data Science** (2024) — Comenius University, Bratislava, Slovakia
 
-- **Bachelor's in Data Science** (2024), Comenius University, Bratislava, Slovakia  
-  Thesis: "Enhancement of RAG Chatbot Performance Using Various Heuristics" (in collaboration with Zurich Insurance).  
-  
+  * Thesis: *Enhancement of RAG Chatbot Performance Using Various Heuristics* (in collaboration with Zurich Insurance)
+
+---
 
 ## Professional Experience
 
-- **Data Science Intern, Zurich Insurance** (2023–Present)  
-  - Developed AI solutions for insurance processes, including RAG systems, agentic models, and NLP classifiers.  
-  - Collaborated on cross-functional teams to automate reporting, claims processing, and actuarial tasks.  
-  - Participated in Zurich's Agentic Hackathon, contributing to innovative AI agent prototypes.
+* **Data Science Intern, Zurich Insurance** (2023–Present)
+
+  * Built AI solutions for insurance processes, including RAG systems, agentic models, and NLP classifiers.
+  * Worked in cross-functional teams to automate reporting, claims tagging, and actuarial workflows.
+  * Contributed to an internal Agentic Hackathon and to prototyping agentic workflows.
+
+---
 
 ## Projects
 
-### Bachelor's Thesis: Enhancement of RAG Chatbot Performance Using Various Heuristics
-- **Folder**: Bachelors_Thesis (includes code for heuristics implementation; proprietary data and knowledge bases excluded).
-- **Description**: Collaborated with Zurich Insurance to optimize RAG chatbots for automating ESG (Environmental, Social, Governance) reporting. Explored a range of optimization strategies, including retrieval enhancements, data preprocessing methods (like Graph RAG), and advanced prompting.
-- **Final Model**: A final model was selected that prioritized **simplicity and efficiency**, balancing performance with practical resource constraints. More complex methods like Graph RAG were evaluated but not adopted, as their marginal gains did not justify the significant increase in computational cost. The optimized workflow employs a multi-step process involving hypothetical answer generation, embedding-based retrieval, and an LLM-powered reranker to select the most relevant context before generating the final answer.
-- **Technologies**: Python, LangChain for RAG pipelines, LLMs, advanced retrieval techniques, knowledge graphs, and statistical analysis methods.
-- **Outcomes**: Achieved **statistically significant improvements** in performance metrics, confirmed through statistical analysis. The resulting solution was **successfully implemented by the sustainability team at Zurich Insurance**, validating its practical effectiveness and streamlining their reporting workflow.
+### Bachelor’s Thesis — *Enhancement of RAG Chatbot Performance Using Various Heuristics*
 
-### Professional Projects at Zurich Insurance
-Due to NDAs, these are described at a high level without code or data. They build on my RAG expertise, evolving toward agentic AI models for insurance automation.
+* **Folder**: `Bachelors_Thesis` (contains code for heuristics; proprietary data/knowledge bases excluded).
+* **Description**: During my internship I studied how to improve answers produced by a RAG chatbot used for automating ESG reporting. The project tested a variety of heuristics across the retrieval and answer-generation pipeline: chunking strategies, methods for storing text (including LLM-assisted knowledge representations), retrieval and reranking approaches (cross-encoders and LLM-based rerankers), and prompting techniques such as chain-of-thought. The pipeline accepted new customer data from a sustainability analyst, retrieved the most relevant context, and generated structured answers for reporting.
+* **Evaluation**: I measured retrieval metrics and had LLM-judged answer quality compared against a gold set. Statistical significance of improvements was tested with the Wilcoxon signed-rank test. The final approach prioritised explainability and efficiency: limiting the context visible to the LLM improved human verifiability, and more complex, costly methods (e.g., graph-based RAG) offered marginal gains that did not justify their cost. The optimized workflow used a multi-step process with an embedding-based retrieval stage and an LLM reranker before final answer generation with chain-of-thought prompting.
+* **Technologies**: Python, LangChain, LLM APIs, vector retrieval, knowledge representations, and statistical analysis.
+* **Outcome**: The solution was adopted by the sustainability team at Zurich and is used in their reporting workflow. (Code in repository excludes proprietary data.)
 
-1. **Actuarial Domain RAG Chatbot** (Introductory Project)  
-   - **Description**: Built a chatbot to query an IFRS 17 guidebook, parsing documents for vector-based retrieval and evaluating pipeline performance. Developed a basic UI for user interaction and feedback loop.
-   - **Technologies**: Python, vector databases(Chroma), LLMs through API, parsers, langchain framework
+---
 
-2. **File Parsing and Metadata-Filtered RAG Systems** (Multiple follow up projects)  
-   - **Description**: Adapted RAG frameworks for repetitive file parsing tasks, incorporating metadata filters from user queries and testing heuristics for performance gains(which were later used in bachelors thesis project).  
-   - **Technologies**: Python, vector databases(Chroma), LLMs through API, parsers, langchain framework
-   
-   
-3. **NLP-Based Claims Classification**  
-   - **Description**: Classified insurance claims into categories using NLP, opting for lightweight models over LLMs for efficiency and precision.  
+### Professional Projects at Zurich Insurance (high-level descriptions)
 
-4. **Agentic Model for Hierarchical Insurance Reporting**  
-   - **Description**: Implementation of an agentic system using LangGraph to aggregate country-level presentations into regional/group-level reports. Agents used tools for filtering irrelevant/relevant data, summarizing hierarchies, and incorporating guidelines for context-aware reasoning.  
-   - **Technologies**: LangGraph, LLMs, custom tools for data filtering and knowledge lookup.  
-  
+> Note: code and data are not included here due to NDAs.
 
-5. **Agentic Hackathon: Reserving Data Presentation Drafter**  
-   - **Description**: Team project building a semi-autonomous agent to generate presentation drafts from hierarchical reserving data, starting with low-level commentary and scaling up. 
-   - **Technologies**: LangGraph, numerical data processing tools. 
+1. **Actuarial Domain RAG Chatbot (introductory project)**
 
-### Academic Projects 
+   * **Description**: Built a chatbot to query an IFRS 17 guidebook. The system parsed documents for vector retrieval and included a simple user interface and feedback loop. The project provided practical lessons on prompt design, context construction, and the limitations of embedding search for complex domain queries — especially when LLM context windows were smaller.
+   * **Technologies**: Python, Chroma vector DB, LLM APIs, parsers, LangChain.
+
+2. **Follow-up RAG systems**
+
+   * **Description**: Implemented several similar RAG pipelines for actuarial documentation. As dataset size increased, new requirements emerged (for example, automatic filtering to improve retrieval efficiency). Some heuristics tested here were later incorporated into my bachelor’s thesis.
+   * **Technologies**: Python, Chroma, LLM APIs, parsers, LangChain.
+
+3. **NLP-based Claims Classification**
+
+   * **Description**: Developed an automated classifier to tag insurance claims into established categories. After evaluation, the solution used lighter-weight NLP models rather than a pure LLM approach to obtain more reliable and explainable results for this task.
+   * **Technologies**: Python, standard NLP toolkits and modeling approaches.
+
+4. **Agentic Model for Hierarchical Insurance Reporting**
+
+   * **Description**: Worked on an agentic system to aggregate and summarise country-level presentation slides into regional or group-level reporting. The agent used stored slide metadata and a knowledge base of the reporting hierarchy. Given a question, the agent decided whether to retrieve low-level slides for a focused answer or to summarise across hierarchical levels and periods for a broader analysis. The agent applied filtering, summarisation, and guideline-based reasoning to produce context-aware responses.
+   * **Technologies**: LangGraph, LLMs, custom tools for data filtering and knowledge lookup.
+   * **Outcome**: The project is in development and received positive feedback from analysts and management during demonstrations.
+
+5. **Agentic Hackathon — Reserving Data Presentation Drafter**
+
+   * **Description**: Team project to build a semi-autonomous agent that drafts presentations from hierarchical reserving data. The agent produced low-level commentary and attempted to scale comments up to higher levels of aggregation, highlighting deltas and their origins. The prototype struggled with messy, synthetic data and with translating granular insights into clear high-level commentary — likely due to insufficient contextual signals in the mock dataset.
+   * **Technologies**: LangGraph, numerical data processing tools.
+
+## Notes on Repository and Usage
+
+* Code related to Zurich projects is not included here because of NDAs. Where possible I include non-proprietary examples and the thesis codebase.
+* The repository is intended to show practical experience building and evaluating RAG and agentic systems, and to demonstrate a balance between performance, cost, and explainability when deploying solutions in production contexts.
+
+## Academic Projects 
 These projects, completed during my Bachelor's at Comenius University, demonstrate foundational skills in data analysis, visualization, and predictive modeling. All were group efforts and are primarily in Slovak (translations available upon request). Source code and reports are in the `School_Projects` folder.
 
 1. **COVID-19 Genome Sequence Visualization** 
@@ -78,8 +100,10 @@ These projects, completed during my Bachelor's at Comenius University, demonstra
    - **Technologies**: Python (NetworkX), graph algorithms
    - **Outcomes**: Quantified inefficiencies in Slovak railway system and showed vulnerabilities in network which might cause entire network to stop functioning
 
-
+---
 
 ## Contact
 - LinkedIn: [linkedin.com/in/teo-pazera](https://www.linkedin.com/in/teo-pazera-7520b1380/)
 - Email: pazerateo@gmail.com  
+
+
