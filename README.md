@@ -6,11 +6,10 @@ Welcome — this repository presents a selection of my academic and professional
 
 ## About Me
 
-My name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am based in the Netherlands (previously in the Bratislava Competence Center).
+MMy name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am based in the Netherlands (previously in the Bratislava Competence Center).
 
-In my role I implement large language models (LLMs) for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also work on standard data science problems such as text classification using NLP methods. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
+This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. In my role I implement large language models (LLMs) for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also worked on standard data science problems such as text classification using NLP methods or some other predictive modeling. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
 
-This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. Due to non-disclosure agreements, Zurich-specific code and data are not included; instead I provide high-level descriptions of methods and results. Open-source code related to my bachelor’s thesis is available in the corresponding folder (proprietary data excluded).
 
 ---
 
@@ -27,8 +26,8 @@ This repository highlights selected projects from my bachelor’s work, industry
 
 * **Data Science Intern, Zurich Insurance** (2023–Present)
 
-  * Built AI solutions for insurance processes, including RAG systems, agentic models, and NLP classifiers.
-  * Worked in cross-functional teams to automate reporting, claims tagging, and actuarial workflows.
+  * Hired to be part of newly formed AI working group in Bratislava, covering topics starting from RAG systems, usage of LLMs to automate processes, agentic AI systems.
+  * Developed AI applications from scratch for different teams across entire company, starting as proofs-of-concept leading to operating products used to make processes more efficient
   * Contributed to an internal Agentic Hackathon and to prototyping agentic workflows.
 
 ---
@@ -51,7 +50,7 @@ This repository highlights selected projects from my bachelor’s work, industry
 
 1. **Actuarial Domain RAG Chatbot (introductory project)**
 
-   * **Description**: Built a chatbot to query an IFRS 17 guidebook. The system parsed documents for vector retrieval and included a simple user interface and feedback loop. The project provided practical lessons on prompt design, context construction, and the limitations of embedding search for complex domain queries — especially when LLM context windows were smaller.
+   * **Description**: Built a chatbot to query an IFRS 17 guidebook. The system parsed documents for vector retrieval and included a simple user interface and feedback loop. The project provided practical lessons on prompt design, context construction, and the limitations of embedding search for complex domain queries, especially when LLM context windows were smaller.
    * **Technologies**: Python, Chroma vector DB, LLM APIs, parsers, LangChain.
 
 2. **Follow-up RAG systems**
@@ -61,18 +60,18 @@ This repository highlights selected projects from my bachelor’s work, industry
 
 3. **NLP-based Claims Classification**
 
-   * **Description**: Developed an automated classifier to tag insurance claims into established categories. After evaluation, the solution used lighter-weight NLP models rather than a pure LLM approach to obtain more reliable and explainable results for this task.
+   * **Description**: Developed an automated classifier to tag insurance claims into established categories. After evaluation, the solution used lighter weight NLP models rather than a pure LLM approach to obtain more reliable and explainable results for this task.
    * **Technologies**: Python, standard NLP toolkits and modeling approaches.
 
 4. **Agentic Model for Hierarchical Insurance Reporting**
 
-   * **Description**: Worked on an agentic system to aggregate and summarise country-level presentation slides into regional or group-level reporting. The agent used stored slide metadata and a knowledge base of the reporting hierarchy. Given a question, the agent decided whether to retrieve low-level slides for a focused answer or to summarise across hierarchical levels and periods for a broader analysis. The agent applied filtering, summarisation, and guideline-based reasoning to produce context-aware responses.
+   * **Description**: Worked on an agentic system to aggregate and summarise country level presentation slides into regional or group level reporting. The agent used stored slide metadata and a knowledge base of the reporting hierarchy. Given a question, the agent decided whether to retrieve low level slides for a focused answer or to summarise across hierarchical levels and periods for a broader analysis. The agent applied filtering, summarisation, and guideline based reasoning to produce context-aware responses.
    * **Technologies**: LangGraph, LLMs, custom tools for data filtering and knowledge lookup.
    * **Outcome**: The project is in development and received positive feedback from analysts and management during demonstrations.
 
 5. **Agentic Hackathon — Reserving Data Presentation Drafter**
 
-   * **Description**: Team project to build a semi-autonomous agent that drafts presentations from hierarchical reserving data. The agent produced low-level commentary and attempted to scale comments up to higher levels of aggregation, highlighting deltas and their origins. The prototype struggled with messy, synthetic data and with translating granular insights into clear high-level commentary — likely due to insufficient contextual signals in the mock dataset.
+   * **Description**: Team project to build a semi-autonomous agent that drafts presentations from hierarchical reserving data. The agent produced low level commentary and attempted to scale comments up to higher levels of aggregation, highlighting deltas and their origins. The prototype struggled with messy, synthetic data and with translating granular insights into clear high-level commentary, likely due to insufficient contextual signals in the mock dataset.
    * **Technologies**: LangGraph, numerical data processing tools.
 
 ## Notes on Repository and Usage
