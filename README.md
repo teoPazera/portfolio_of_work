@@ -1,14 +1,14 @@
 # My Portfolio of Projects
 
-Welcome — this repository presents a selection of my academic and professional work. I am focused on agentic AI systems and on applying them to automate domain processes by designing clear, practical agentic frameworks. My experience includes building Retrieval-Augmented Generation (RAG) systems, agentic pipelines, natural language processing (NLP) solutions, and workflow automation.
+This repository presents a selection of my academic and professional work. It will guide the reader through the selection based of my judgement of importance of the work I did. 
 
 ---
 
 ## About Me
 
-MMy name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am based in the Netherlands (previously in the Bratislava Competence Center).
+My name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am based in the Netherlands (previously in the Bratislava Competence Center).
 
-This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. In my role I implement large language models (LLMs) for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also worked on standard data science problems such as text classification using NLP methods or some other predictive modeling. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
+This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. In my role I implement large language models for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also worked on standard data science problems such as text classification using NLP methods or some other predictive modeling. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
 
 
 ---
@@ -38,15 +38,14 @@ This repository highlights selected projects from my bachelor’s work, industry
 
 * **Folder**: `Bachelors_Thesis` (contains code for heuristics; proprietary data/knowledge bases excluded).
 * **Description**: During my internship I studied how to improve answers produced by a RAG chatbot used for automating ESG reporting. The project tested a variety of heuristics across the retrieval and answer-generation pipeline: chunking strategies, methods for storing text (including LLM-assisted knowledge representations), retrieval and reranking approaches (cross-encoders and LLM-based rerankers), and prompting techniques such as chain-of-thought. The pipeline accepted new customer data from a sustainability analyst, retrieved the most relevant context, and generated structured answers for reporting.
-* **Evaluation**: I measured retrieval metrics and had LLM-judged answer quality compared against a gold set. Statistical significance of improvements was tested with the Wilcoxon signed-rank test. The final approach prioritised explainability and efficiency: limiting the context visible to the LLM improved human verifiability, and more complex, costly methods (e.g., graph-based RAG) offered marginal gains that did not justify their cost. The optimized workflow used a multi-step process with an embedding-based retrieval stage and an LLM reranker before final answer generation with chain-of-thought prompting.
+* **Evaluation**: I measured retrieval metrics and had LLM-judged answer quality compared against a gold set. Statistical significance of improvements was tested with the Wilcoxon signed-rank test. The final approach prioritised explainability and efficiency: limiting the context visible to the LLM improved human verifiability, and more complex, costly methods (e.g., graph-based RAG) offered marginal gains that did not justify their cost. The optimized workflow used a multi-step process with an embedding based retrieval stage and an LLM reranker before final answer generation with chain-of-thought prompting.
 * **Technologies**: Python, LangChain, LLM APIs, vector retrieval, knowledge representations, and statistical analysis.
 * **Outcome**: The solution was adopted by the sustainability team at Zurich and is used in their reporting workflow. (Code in repository excludes proprietary data.)
 
 ---
 
-### Professional Projects at Zurich Insurance (high-level descriptions)
+### Professional Projects at Zurich Insurance
 
-> Note: code and data are not included here due to NDAs.
 
 1. **Actuarial Domain RAG Chatbot (introductory project)**
 
@@ -77,7 +76,7 @@ This repository highlights selected projects from my bachelor’s work, industry
 ## Notes on Repository and Usage
 
 * Code related to Zurich projects is not included here because of NDAs. Where possible I include non-proprietary examples and the thesis codebase.
-* The repository is intended to show practical experience building and evaluating RAG and agentic systems, and to demonstrate a balance between performance, cost, and explainability when deploying solutions in production contexts.
+
 
 ## Academic Projects 
 These projects, completed during my Bachelor's at Comenius University, demonstrate foundational skills in data analysis, visualization, and predictive modeling. All were group efforts and are primarily in Slovak (translations available upon request). Source code and reports are in the `School_Projects` folder.
