@@ -6,9 +6,9 @@ This repository presents a selection of my academic and professional work. It wi
 
 ## About Me
 
-My name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am based in the Netherlands (previously in the Bratislava Competence Center).
+My name is Teo Pazera. I am a Master’s student in Data Science at Radboud University (Nijmegen, Netherlands) and currently work as a Data Science Intern at Zurich Insurance. I am currently working under the Netherlands branch (previously in the Bratislava Competence Center).
 
-This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. In my role I implement large language models for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also worked on standard data science problems such as text classification using NLP methods or some other predictive modeling. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
+This repository highlights selected projects from my bachelor’s work, industry experience and lastly some of my school projects which are more general data science projects, which i was part of. In Zurich Insurance I implemented large language models for workplace automation, develop task-focused AI agents (for example, automating report generation), and build RAG-based chatbots. I also worked on standard data science problems such as text classification using NLP methods or some other predictive modeling. I have over 1.5 years of experience at Zurich and hold a Bachelor’s degree in Data Science from Comenius University (Bratislava).
 
 
 ---
@@ -40,7 +40,7 @@ This repository highlights selected projects from my bachelor’s work, industry
 * **Description**: During my internship I studied how to improve answers produced by a RAG chatbot used for automating ESG reporting. The project tested a variety of heuristics across the retrieval and answer-generation pipeline: chunking strategies, methods for storing text (including LLM-assisted knowledge representations), retrieval and reranking approaches (cross-encoders and LLM-based rerankers), and prompting techniques such as chain-of-thought. The pipeline accepted new customer data from a sustainability analyst, retrieved the most relevant context, and generated structured answers for reporting.
 * **Evaluation**: I measured retrieval metrics and had LLM-judged answer quality compared against a gold set. Statistical significance of improvements was tested with the Wilcoxon signed-rank test. The final approach prioritised explainability and efficiency: limiting the context visible to the LLM improved human verifiability, and more complex, costly methods (e.g., graph-based RAG) offered marginal gains that did not justify their cost. The optimized workflow used a multi-step process with an embedding based retrieval stage and an LLM reranker before final answer generation with chain-of-thought prompting.
 * **Technologies**: Python, LangChain, LLM APIs, vector retrieval, knowledge representations, and statistical analysis.
-* **Outcome**: The solution was adopted by the sustainability team at Zurich and is used in their reporting workflow. (Code in repository excludes proprietary data.)
+* **Outcome**: The solution was adopted by the sustainability team at Zurich and is used in their reporting workflow.
 
 ---
 
@@ -79,25 +79,26 @@ This repository highlights selected projects from my bachelor’s work, industry
 
 
 ## Academic Projects 
-These projects, completed during my Bachelor's at Comenius University, demonstrate foundational skills in data analysis, visualization, and predictive modeling. All were group efforts and are primarily in Slovak (translations available upon request). Source code and reports are in the `School_Projects` folder.
+These projects, completed during my Bachelor's at Comenius University, demonstrate foundational skills in data analysis, visualization, and predictive modeling. All were group efforts and at least the reports of them are in Slovak (translations available upon request). Source code and reports are in the `School_Projects` folder.
 
 1. **COVID-19 Genome Sequence Visualization** 
    - **Description**: Analyzed and visualized a dataset of COVID-19 genome sequencing runs to uncover patterns in sequence variations and temporal trends.  
    - **Technologies**: Python, data visualization libraries (Pandas, Matplotlib, Seaborn)
-   - **Outcomes**: Produced report investigating given data and trying to find relevant patterns in it. This project built my skills in exploratory data analysis, crucial for preprocessing in AI pipelines.  
+   - **Outcomes**: Produced report investigating non-trivial behavioral patterns of genome sequencing runs. This project built my skills in exploratory data analysis, crucial for preprocessing in AI pipelines.  
   
 
 2. **Slovak Parliamentary Election Prediction from Polls** 
-   - **Description**: Used historical polling data to model trends in Slovak political parties, predicting outcomes for upcoming elections by characterizing party behaviors (e.g. some parties under perform in polls as people are not proud to show support).  
-   - **Technologies**: Python, parsing of pdfs, time-series analysis, regression models
-   - **Outcomes**: Found relevant factors that help build upon and predict the difference between last available poll and final election result.  
+   - **Description**: Used historical polling data to model trends in support of Slovak political parties, predicting outcomes for upcoming elections by identifying party behaviors leading to consistent bias in polling data
+(e.g. potential bias in poll data for individual parties)
+   - **Technologies**: Python, pdf parsing, time-series analysis, regression models
+   - **Outcomes**: Found relevant factors that help build upon and predict the difference between last available poll and election result, strengthening my ability to extract insights from complex datasets.
 
 
-3. **Comparative Analysis of Slovak vs. Czech Railway Networks** 
-   - **Description**: Evaluated railway systems using network theory metrics and simulations of traveling to assess if the Slovak network underperforms compared to the Czech one.  
+3. **Comparative Analysis of Slovak and Czech Railway Networks** 
+   - **Description**: Evaluated robustness of railway systems using network theory metrics and simulations of random passengers to assess if the Slovak network design underperforms compared to the Czech one.  
    - **Technologies**: Python (NetworkX), graph algorithms
-   - **Outcomes**: Quantified inefficiencies in Slovak railway system and showed vulnerabilities in network which might cause entire network to stop functioning
-
+   - **Outcomes**: Quantified inefficiencies in Slovak railway system and showed vulnerabilities in network which might cause entire network to stop functioning.
+   This project enhanced my understanding of network dynamics and system optimization.
 ---
 
 ## Contact
